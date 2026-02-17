@@ -52,19 +52,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ### 🔹 Radar Chart
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'radar',
-    data:{
-      labels:['HTML','CSS','Linux','Bash','Python','GitHub'],
-      datasets:[{
-        label:'Proficiency',
-        data:[90,80,70,60,95,85],
-        backgroundColor:'rgba(54,162,235,0.2)',
-        borderColor:'rgb(54,162,235)',
-        pointBackgroundColor:'rgb(54,162,235)'
-      }]
-    }
-  }"/>
+  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22Linux%22%2C%22Bash%22%2C%22Python%22%2C%22GitHub%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B90%2C80%2C70%2C60%2C95%2C85%5D%2C%22backgroundColor%22%3A%22rgba(54%2C162%2C235%2C0.2)%22%2C%22borderColor%22%3A%22rgb(54%2C162%2C235)%22%2C%22pointBackgroundColor%22%3A%22rgb(54%2C162%2C235)%22%7D%5D%7D%7D" />
 </p>
 
 ### 🔹 Progress Badges
