@@ -50,12 +50,14 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ## 📊 Skill Proficiency Graph
 
-### 🔹 Radar Chart
+### 🔹 Auto‑Updating Radar Chart
+
 <p align="center">
-  <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22radar%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22HTML%22%2C%22CSS%22%2C%22Linux%22%2C%22Bash%22%2C%22Python%22%2C%22GitHub%22%5D%2C%22datasets%22%3A%5B%7B%22label%22%3A%22Proficiency%22%2C%22data%22%3A%5B90%2C80%2C70%2C60%2C95%2C85%5D%2C%22backgroundColor%22%3A%22rgba(54%2C162%2C235%2C0.2)%22%2C%22borderColor%22%3A%22rgb(54%2C162%2C235)%22%2C%22pointBackgroundColor%22%3A%22rgb(54%2C162%2C235)%22%7D%5D%7D%7D" />
+  <img src="CHART_URL_PLACEHOLDER" />
 </p>
 
 ### 🔹 Progress Badges
+
 <p align="center">
 <img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5"/>
 <img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3"/>
@@ -113,4 +115,4 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-<h3 align="center">⚡ “Security is not a product, but a process.”</h3>
+<h3 align="center">⚡ Security is not a product, but a process.</h3>
