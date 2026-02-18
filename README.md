@@ -53,7 +53,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 ### 🔹 Auto‑Updating Radar Chart
 
 <p align="center">
-  <img src="CHART_URL_PLACEHOLDER" />
+  <img src="https://github.com/Singhdeepak442005/chart-generator/raw/main/skill_chart.png" />
 </p>
 
 ### 🔹 Progress Badges
