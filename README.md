@@ -61,6 +61,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-004F9F?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 </p>
 
 ---
