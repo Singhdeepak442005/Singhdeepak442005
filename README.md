@@ -48,6 +48,21 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
+## 🛠️ Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=burpsuite" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security%20Testing-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+</p>
+
+---
 
 ### 🔹 Progress Badges
 
