@@ -112,8 +112,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 - Spoken Tutorial (IIT Bombay) — Java  
 - Hack and Fix — Security Operations (SOC Basics)  
 - TryHackMe — Advent of Cyber 2025  
-- Cyber Security — Nmap, Ethical Hacking  
-- OSCP (Goal)  
+- Cyber Security — Nmap, Ethical Hacking   
 - [View All Certificates →](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
 
 ---
