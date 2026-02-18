@@ -56,11 +56,11 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 ## 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-Environment-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-004F9F?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security%20Testing-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-004F9F?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 ---
