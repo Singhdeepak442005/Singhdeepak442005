@@ -48,13 +48,6 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-## 📊 Skill Proficiency Graph
-
-### 🔹 Auto‑Updating Radar Chart
-
-<p align="center">
-  <img src="https://github.com/Singhdeepak442005/chart-generator/raw/main/skill_chart.png" />
-</p>
 
 ### 🔹 Progress Badges
 
