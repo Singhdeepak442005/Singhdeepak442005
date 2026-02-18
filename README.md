@@ -52,11 +52,11 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 ### 🔹 Progress Badges
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-90%25-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-80%25-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Linux-70%25-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Bash-60%25-lightgrey?style=for-the-badge&logo=gnu-bash"/>
-<img src="https://img.shields.io/badge/Python-95%25-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-50%25-blue?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/Linux-75%25-black?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Bash-70%25-lightgrey?style=for-the-badge&logo=gnu-bash"/>
+<img src="https://img.shields.io/badge/Python-60%25-yellow?style=for-the-badge&logo=python"/>
 <img src="https://img.shields.io/badge/GitHub-85%25-darkgreen?style=for-the-badge&logo=github"/>
 </p>
 
