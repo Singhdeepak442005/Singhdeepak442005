@@ -43,7 +43,12 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,linux,bash,python,github"/>
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=linux" />
+  <img src="https://skillicons.dev/icons?i=bash" />
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=github" />
 </p>
 
 ---
@@ -51,15 +56,11 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 ## 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite" />
-  <img src="https://skillicons.dev/icons?i=linux" />
-  <img src="https://skillicons.dev/icons?i=bash" />
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security%20Testing-F26B1D?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-Environment-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-Scripting-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Automation-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-004F9F?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security%20Testing-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 ---
