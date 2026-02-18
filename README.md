@@ -56,28 +56,28 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 ## 🛠️ Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-004F9F?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BurpSuite-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=00ffea"/>
+  <img src="https://img.shields.io/badge/Nmap-001f3f?style=for-the-badge&logo=gnometerminal&logoColor=00ffea"/>
+  <img src="https://img.shields.io/badge/BurpSuite-ff6a00?style=for-the-badge&logo=burpsuite&logoColor=00ffea"/>
+  <img src="https://img.shields.io/badge/Wireshark-004d99?style=for-the-badge&logo=wireshark&logoColor=00ffea"/>
+  <img src="https://img.shields.io/badge/Bash-003300?style=for-the-badge&logo=gnubash&logoColor=00ffea"/>
+  <img src="https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python&logoColor=00ffea"/>
 </p>
 
 ---
 
-## 🔹 Progress Badges 
+## 🔹 Progress Badges
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS-50%25-007bff?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/Linux-75%25-111111?style=for-the-badge&logo=linux&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/HTML-60%25-ff6a00?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-50%25-007bff?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-75%25-111111?style=for-the-badge&logo=linux&logoColor=00ffea"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Bash-70%25-00ff88?style=for-the-badge&logo=gnubash&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-60%25-f7df1e?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-85%25-00ffaa?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Bash-70%25-00ff88?style=for-the-badge&logo=gnubash&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Python-60%25-f7df1e?style=for-the-badge&logo=python&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/GitHub-85%25-00ffaa?style=for-the-badge&logo=github&logoColor=000000"/>
 </p>
 
 ---
