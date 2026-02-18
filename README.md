@@ -106,24 +106,32 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications (LinkedIn‑Matched)
 
-- Google Cybersecurity Certificate  
-- AWS Cloud Practitioner  
-- Python for Everybody – Coursera  
-- Certified Ethical Hacker (CEH)  
+- Cisco Certified Network Professional (CCNP) — Ethical Hacker  
+- Spoken Tutorial (IIT Bombay) — Java  
+- Hack and Fix — Security Operations (SOC Basics)  
+- TryHackMe — Advent of Cyber 2025  
+- Cyber Security — Nmap, Ethical Hacking  
 - OSCP (Goal)  
 - [View All Certificates →](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
 
 ---
 
-## 🎖️ Certification Badges
+## 🎖️ Certification Badges (Updated)
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ddeepak-singh/details/certifications/"><img src="https://img.shields.io/badge/Google-Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ddeepak-singh/details/certifications/"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ddeepak-singh/details/certifications/"><img src="https://img.shields.io/badge/Coursera-Python%20for%20Everybody-0056D2?style=for-the-badge&logo=coursera&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ddeepak-singh/details/certifications/"><img src="https://img.shields.io/badge/Certified-Ethical%20Hacker-EA1C2D?style=for-the-badge&logo=hackaday&logoColor=white"/></a>
+
+<img src="https://img.shields.io/badge/Cisco-CCNP%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/IIT%20Bombay-Java%20Certification-FF6F00?style=for-the-badge&logo=java&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SOC%20Basics-Hack%20and%20Fix-6A5ACD?style=for-the-badge&logo=security&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TryHackMe-Advent_Of_Cyber_2025-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cyber%20Security-Nmap%20%7C%20Ethical%20Hacking-00A86B?style=for-the-badge&logo=linux&logoColor=white"/>
+
 </p>
 
 ---
