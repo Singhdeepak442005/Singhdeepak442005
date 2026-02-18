@@ -58,8 +58,8 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-blue?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security%20Testing-orange?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap-Network%20Scanner-0A66C2?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BurpSuite-Web%20Security%20Testing-F26B1D?style=for-the-badge&logo=burpsuite&logoColor=white"/>
 </p>
 
 ---
