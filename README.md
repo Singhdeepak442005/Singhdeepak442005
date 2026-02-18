@@ -66,15 +66,18 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-### 🔹 Progress Badges
+## 🔹 Progress Badges (New Premium Style)
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS-50%25-blue?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/Linux-75%25-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Bash-70%25-lightgrey?style=for-the-badge&logo=gnu-bash"/>
-<img src="https://img.shields.io/badge/Python-60%25-yellow?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/GitHub-85%25-darkgreen?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-50%25-007bff?style=for-the-badge&logo=css3"/>
+  <img src="https://img.shields.io/badge/Linux-75%25-111111?style=for-the-badge&logo=linux&logoColor=yellow"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Bash-70%25-00ff88?style=for-the-badge&logo=gnubash&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-60%25-f7df1e?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-85%25-00ffaa?style=for-the-badge&logo=github&logoColor=black"/>
 </p>
 
 ---
