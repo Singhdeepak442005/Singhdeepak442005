@@ -66,7 +66,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-## 🔹 Progress Badges (New Premium Style)
+## 🔹 Progress Badges 
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-60%25-orange?style=for-the-badge&logo=html5"/>
