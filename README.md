@@ -53,7 +53,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-## 🛠️ Tools I Use (New Icon Style + New Colors)
+## 🛠️ Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-0A0A0A?style=for-the-badge&logo=linux&logoColor=F7D747"/>
@@ -66,7 +66,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-## 🔹 Progress Badges (New Premium Colors)
+## 🔹 Progress Badges
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-60%25-FF7A00?style=for-the-badge&logo=html5&logoColor=white"/>
