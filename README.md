@@ -3,14 +3,14 @@
 
 ---
 
-## 🚀 Professional Summary
+**About Me**
 
 I am a cybersecurity researcher specializing in **web application security, vulnerability assessment, and ethical hacking**.  
 My work focuses on identifying real-world vulnerabilities, contributing to bug bounty programs, and building secure systems for the future.
 
 ---
 
-## 🔬 Current Work & Interests
+**Interests**
 
 - 🔍 Researching: Web vulnerabilities & real-world exploitation  
 - 🤝 Collaborating on: Security research, bug bounty programs, secure development  
