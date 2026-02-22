@@ -120,7 +120,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-## 🎖️ Certification Badges (Updated)
+## 🎖️ Certification Badges
 
 <p align="center">
 
