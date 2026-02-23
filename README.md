@@ -1,48 +1,36 @@
-<!-- CYBERPUNK NEON HACKER THEME -->
+<!-- HYBRID LANDING PAGE + CYBERPUNK NEON -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=FF00E6&center=true&vCenter=true&width=800&lines=Deepak+Singh;Cyberpunk+Security+Researcher;Web+Security+%7C+Bug+Bounty;Hacking+the+Future+Securely" />
+<img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F0FF&center=true&vCenter=true&width=800&lines=Deepak+Singh;Cybersecurity+Researcher;Web+Security+%7C+Bug+Bounty+Hunter;Cyberpunk+Landing+Page+Profile" />
 
 ---
 
-# 🔥 Cybersecurity Researcher • Bug Hunter • Web Security
+# ⚡ Cybersecurity Researcher • Web Security • Bug Hunter
 
-💀 Specializing in **Web App Security, Exploitation & Ethical Hacking**  
-⚡ Passionate about breaking systems to make them stronger  
+I break systems ethically to build stronger, secure digital worlds.  
+Focused on **Web Security, Exploitation, Recon & Secure Development**.
 
 ---
 
-## 🧬 About Me (Neon Edition)
+## 🔥 About Me
 - 🔍 Web vulnerabilities & exploitation  
 - 🤝 Security research & bug bounty  
 - 🧠 Malware analysis, exploit dev  
-- 🎯 OSCP in progress  
+- 🎯 OSCP aspirant  
 
 ---
 
 ## 💡 Expertise
-```
-⚡ Web Security
-⚡ Penetration Testing
-⚡ Reconnaissance
-⚡ Secure Development
-⚡ Bug Hunting
-⚡ Linux • Bash • Python
-```
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,python,github" />
+</p>
 
 ---
 
 ## 🌐 Connect
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linkedin,gmail,twitter,instagram" />
-</p>
-
----
-
-## 💻 Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,linux,bash,python,github" />
 </p>
 
 ---
@@ -57,27 +45,27 @@
 
 ---
 
-## 📊 Cyberpunk Stats
+## 📊 Stats & Graph (Preserved)
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhdeepak442005&show_icons=true&theme=highcontrast"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhdeepak442005&show_icons=true&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Singhdeepak442005&theme=highcontrast"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Singhdeepak442005&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhdeepak442005&layout=compact&theme=highcontrast"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhdeepak442005&layout=compact&theme=tokyonight"/>
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=high-contrast"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
-- Real-world vulnerability reports  
+- Vulnerability reports  
 - Open-source contributions  
-- Bug bounty programs  
+- Bug bounty  
 - OSCP goal  
 
 ---
 
-### 💀 *Hack the system. Secure the world.*
+### ⚡ *Cyberpunk Security • Next‑Level GitHub Profile*
 
 </div>
