@@ -8,36 +8,14 @@
 I am a cybersecurity researcher specializing in **web application security, vulnerability assessment, and ethical hacking**.  
 I focus on identifying real-world vulnerabilities, contributing to bug bounty programs, and helping build secure systems.
 
-- 🔍 Researching: Web vulnerabilities & exploitation  
-- 🤝 Collaborating on: Security research & bug bounty  
-- 🧠 Learning: Advanced exploitation, malware analysis, automation  
+- 🔍 Interested in: Web vulnerabilities & real-world exploitation  
+- 🤝 Open to: Security research, bug bounty collaboration, secure development projects  
+- 🧠 Currently learning: Advanced exploitation, malware analysis, automation tooling  
 - 🎯 Goal: Become a professional Security Researcher & achieve **OSCP**
 
 ---
 
-## 📬 Contact Me
-
-Choose how you want to reach me:
-
-<p align="center">
-
-<a href="https://wa.me/91XXXXXXXXXX" target="_blank">
-<img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/ddeepak-singh" target="_blank">
-<img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:kingdomindian67@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 💡 Expertise
+## 🧠 Core Skills
 
 - Web Security & Vulnerability Assessment  
 - Penetration Testing & Reconnaissance  
@@ -55,7 +33,7 @@ Choose how you want to reach me:
 
 ---
 
-## 🛠 Tools 
+## 🛠 Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=F7D747"/>
@@ -68,7 +46,7 @@ Choose how you want to reach me:
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Overview
 
 <p align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhdeepak442005&show_icons=true&theme=tokyonight"/>
@@ -82,26 +60,37 @@ Choose how you want to reach me:
 
 ---
 
-## 🏆 Achievements
+## 🏆 Experience & Focus
 
 - Reported vulnerabilities in real-world applications  
 - Contributed to open-source security projects  
-- Active bug bounty participant  
-- Building a strong cybersecurity portfolio  
-- Long-term goal: **OSCP + Advanced Security Research**
+- Active participant in bug bounty programs  
+- Building a strong, practical cybersecurity portfolio  
+- Long-term focus: **OSCP + Advanced Security Research**
 
 ---
 
 ## 📜 Certifications
 
-- CCNP Security  
-- IIT Bombay Java  
-- SOC Basics  
-- TryHackMe AOC 2025  
+- Cisco Certified Network Professional (CCNP) — Ethical Hacker  
+- Spoken Tutorial (IIT Bombay) — Java  
+- Hack and Fix — Security Operations (SOC Basics)  
+- TryHackMe — Advent of Cyber 2025  
 - Cyber Security — Nmap, Ethical Hacking  
 
 👉 Full list on LinkedIn:  
 [View All Certificates →](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+<a href="mailto:kingdomindian67@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+<a href="https://x.com/SanjayRajput445"><img src="https://skillicons.dev/icons?i=twitter&theme=dark" /></a>
+<a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" /></a>
+</p>
 
 ---
 
