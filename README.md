@@ -160,24 +160,3 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 ---
 
 # 📬 Contact Form (WhatsApp)
-
-<div align="center" style="
-background: linear-gradient(135deg, #0d0d0d, #111111);
-padding: 30px;
-border-radius: 18px;
-border: 1px solid rgba(0,255,180,0.3);
-box-shadow: 0 0 18px rgba(0,255,180,0.25);
-width: 80%;
-">
-
-**Your Name:**  
-`[ Enter your name ]`
-
-**Your Message:**  
-`[ Enter your message ]`
-
-<br>
-
-[![Submit](https://img.shields.io/badge/SUBMIT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/91XXXXXXXXXX?text=Hi%20Deepak%2C%20I%20am%20contacting%20you%20from%20your%20GitHub%20profile.)
-
-</div>
