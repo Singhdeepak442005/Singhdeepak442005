@@ -159,4 +159,3 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 
 ---
 
-# 📬 Contact Form (WhatsApp)
