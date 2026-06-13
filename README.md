@@ -47,7 +47,7 @@ My work focuses on identifying real-world vulnerabilities, contributing to bug b
 <div align="center">
 
 <a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:kingdomindian67@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://x.com/SanjayRajput445"><img src="https://skillicons.dev/icons?i=twitter" /></a>
 <a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
