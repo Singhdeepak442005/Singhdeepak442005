@@ -64,7 +64,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 <a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://wa.me/918928311874"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" /></a>
-<a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<!-- <a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram" /></a> -->
 
 </div>
 
