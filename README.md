@@ -67,7 +67,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 <a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://wa.me/918928311874"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" /></a>
-<!-- <a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram" /></a> -->
+<a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram" /></a>
 
 </div>
 
@@ -134,41 +134,50 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Goals
 
-<div align="center" style="
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+<div style="
   background: linear-gradient(135deg, #0d0d0d, #131313);
-  padding: 20px;
+  padding: 22px;
   border-radius: 14px;
-  border: 1px solid rgba(0,255,180,0.2);
-  display: inline-block;
-  text-align: left;
+  border: 1px solid rgba(0,255,180,0.25);
 ">
 
-- Reported vulnerabilities in real-world applications
-- Contributed to open-source security projects
-- Active participant in bug bounty programs
-- Building a strong cybersecurity portfolio
+### 🏆 Achievements
+
+✅ Reported vulnerabilities in real-world applications
+✅ Contributed to open-source security projects
+✅ Active participant in bug bounty programs
+✅ Building a strong cybersecurity portfolio
 
 </div>
 
-## 🎯 Goals
+</td>
+<td valign="top" width="50%">
 
-<div align="center" style="
+<div style="
   background: linear-gradient(135deg, #0d0d0d, #131313);
-  padding: 20px;
+  padding: 22px;
   border-radius: 14px;
-  border: 1px solid rgba(0,255,180,0.2);
-  display: inline-block;
-  text-align: left;
+  border: 1px solid rgba(0,255,180,0.25);
 ">
 
-- Achieve **OSCP** certification
-- Advance into professional-grade security research
-- Expand contributions to open-source security tooling
-- Build a recognized presence in the bug bounty community
+### 🎯 Goals
+
+🚀 Achieve **OSCP** certification
+🚀 Advance into professional-grade security research
+🚀 Expand contributions to open-source security tooling
+🚀 Build a recognized presence in the bug bounty community
 
 </div>
+
+</td>
+</tr>
+</table>
 
 ---
 
