@@ -41,6 +41,10 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 | 🔍 **Researching** | Web vulnerabilities & real-world exploitation techniques |
 | 🤝 **Collaborating** | Security research, bug bounty programs, secure development |
 | 🧠 **Learning** | Advanced exploitation, malware analysis, automation & tooling |
+| 🛡️ **Focus Area** | Web app security, API security, network security |
+| 🧩 **CTF/Practice** | TryHackMe, HackTheBox, Capture The Flag challenges |
+| 📖 **Reading** | Security research papers, CVE write-ups, exploit breakdowns |
+| 🛠️ **Building** | Automation scripts, custom security tools |
 
 </div>
 
