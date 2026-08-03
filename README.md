@@ -188,6 +188,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 - Hack and Fix — Security Operations (SOC Basics)
 - TryHackMe — Advent of Cyber 2025
 - Cyber Security — Nmap, Ethical Hacking
+- AI Cybersecurity for Beginners — Free Academy.ai
 
 [View All Certificates →](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
 
@@ -202,6 +203,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 <img src="https://img.shields.io/badge/SOC%20Basics-Hack%20%26%20Fix-6A5ACD?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 <img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 <img src="https://img.shields.io/badge/Cyber%20Security-Nmap%20%7C%20Ethical%20Hacking-00A86B?style=for-the-badge&logo=hackaday&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20Cybersecurity-Free%20Academy.ai-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 
 </div>
 
