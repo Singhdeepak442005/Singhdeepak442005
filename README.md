@@ -41,7 +41,6 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 | 🔍 **Researching** | Web vulnerabilities & real-world exploitation techniques |
 | 🤝 **Collaborating** | Security research, bug bounty programs, secure development |
 | 🧠 **Learning** | Advanced exploitation, malware analysis, automation & tooling |
-| 🎯 **Goal** | Become a professional Security Researcher & achieve **OSCP** |
 
 </div>
 
