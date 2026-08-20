@@ -2,11 +2,11 @@
 <div align="center" style="
   background: linear-gradient(135deg, #0a0a0a, #111111);
   padding: 40px;
-  border-radius: 22px;
   box-shadow: 0 0 25px rgba(0,255,180,0.35);
   border: 1px solid rgba(0,255,180,0.25);
   margin-bottom: 25px;
 ">
+  border-radius: 22px;
 
 <h1 style="color:#00ffb4;">Hi 👋, I'm Deepak Singh</h1>
 <h3 style="color:#e0e0e0;">Cybersecurity Researcher • Web Security Enthusiast • Bug Hunter</h3>
@@ -117,13 +117,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Singhdeepak442005&show_icons=true&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Singhdeepak442005&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Singhdeepak442005&layout=compact&theme=tokyonight"/>
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=tokyonight"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=tokyonight"/> <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=tokyonight"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
