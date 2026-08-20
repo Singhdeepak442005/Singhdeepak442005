@@ -121,16 +121,16 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <br><br>
 
-<table>
+<table width="95%">
 <tr>
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=tokyonight" width="100%"/>
 
 </td>
-<td>
+<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=tokyonight" width="100%"/>
 
 </td>
 </tr>
@@ -141,6 +141,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
+
 
 ---
 
