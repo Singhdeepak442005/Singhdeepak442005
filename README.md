@@ -107,12 +107,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML-60%25-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-50%25-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-75%25-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bash-70%25-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-60%25-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/>
-<img src="https://img.shields.io/badge/GitHub-85%25-181717?style=for-the-badge&logo=github&logoColor=00FFA5"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Singhdeepak442005&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhdeepak442005&layout=compact&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
