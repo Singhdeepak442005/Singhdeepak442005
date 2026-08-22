@@ -107,7 +107,11 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Singhdeepak442005&show_icons=true&theme=tokyonight&hide_border=true"/> <br> <img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Singhdeepak442005&layout=compact&theme=tokyonight&hide_border=true"/> <br> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -142,7 +146,6 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 </div>
 
-
 ---
 
 ## 🏆 Achievements & Goals
@@ -160,9 +163,9 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ### 🏆 Achievements
 
-✅ Reported vulnerabilities in real-world applications
-✅ Contributed to open-source security projects
-✅ Active participant in bug bounty programs
+✅ Reported vulnerabilities in real-world applications  
+✅ Contributed to open-source security projects  
+✅ Active participant in bug bounty programs  
 ✅ Building a strong cybersecurity portfolio
 
 </div>
@@ -179,9 +182,9 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ### 🎯 Goals
 
-🚀 Achieve **OSCP** certification
-🚀 Advance into professional-grade security research
-🚀 Expand contributions to open-source security tooling
+🚀 Achieve **OSCP** certification  
+🚀 Advance into professional-grade security research  
+🚀 Expand contributions to open-source security tooling  
 🚀 Build a recognized presence in the bug bounty community
 
 </div>
