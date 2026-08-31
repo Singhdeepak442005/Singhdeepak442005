@@ -142,7 +142,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true&area=true" width="95%"/> -->
 
 </div>
 
