@@ -11,108 +11,58 @@
 <img src="https://img.shields.io/badge/MCA%20Student-30363D?style=flat-square&logo=academia&logoColor=white">
 </p>
 
+> *"Security is not a product, but a process."* — Bruce Schneier
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Cybersecurity Researcher and MCA student** with a strong focus on **Cybersecurity, Web Application Security, Vulnerability Assessment, Ethical Hacking, and Reconnaissance**.
+My goal is to understand how modern web applications and systems operate, identify security weaknesses, and learn how those weaknesses can be properly secured. I believe in continuous learning, practical experimentation, responsible security research, and a balanced understanding of both offensive and defensive cybersecurity.
 
-My work revolves around understanding how modern web applications and systems operate, identifying security weaknesses, and learning how those weaknesses can be properly secured. I enjoy working on practical cybersecurity projects, conducting security testing, analyzing vulnerabilities, researching real-world attack surfaces, building security tools, and exploring cybersecurity challenges.
-
-I have hands-on experience with **Kali Linux, Burp Suite, Nmap, FFUF, Gobuster, Subfinder, Wireshark, Metasploit, and Postman**, along with technologies including **Python, Flask, FastAPI, React, Next.js, JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Redis, Docker, Git, and Linux**.
-
-My approach is based on **continuous learning, practical experimentation, responsible security research, ethical testing, and developing a strong understanding of both offensive and defensive cybersecurity**.
-
-> 🎯 **Long-Term Goal:** Build a professional career in cybersecurity, advance into security research, and achieve **OSCP certification**.
+> 💬 **"Learn → Practice → Build → Share → Grow"**
 
 ---
 
-## 🔎 What I Do
+## 🔎 What I Do / 📚 Currently Learning / 🎯 Goals
 
 <table width="100%">
 <tr>
 
 <td width="33.33%" valign="top">
 
-### 🔵 Web Security
+### ⚙️ What I Do
 
-- Web Application Security
-- OWASP Top 10
-- Vulnerability Assessment
-- API Security
-- Authentication Testing
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🎯 Security Research
-
-- Reconnaissance
-- Enumeration
-- Attack Surface Discovery
-- Bug Hunting
-- Vulnerability Research
+- ✅ Web Application Security
+- ✅ Vulnerability Assessment
+- ✅ Reconnaissance & Enumeration
+- ✅ Bug Bounty Research
+- ✅ Security Tool Development
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### ⚙️ Security Development
+### 📖 Currently Learning
 
-- Security Automation
-- Python Tooling
-- Custom Security Scripts
-- Vulnerability Scanners
-- Reconnaissance Tools
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 📚 Currently Learning
-
-<table width="100%">
-<tr>
-
-<td width="33.33%" valign="top">
-
-### 🔐 Advanced Web Security
-
-- Advanced Web Exploitation
-- API Security
-- Authentication
-- Authorization
-- Exploitation Techniques
+- ✅ Advanced Web Exploitation
+- ✅ API & Network Security
+- ✅ Malware Analysis
+- ✅ Security Automation
+- ✅ OSCP Preparation
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 🧪 Security Research
+### 🎯 Goals
 
-- Bug Bounty Methodology
-- CVE Research
-- Exploit Analysis
-- Malware Analysis
-- Security Write-ups
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### ⚙️ Advanced Tooling
-
-- Security Automation
-- Python
-- Recon Frameworks
-- Vulnerability Correlation
-- OSCP Preparation
+- ✅ Achieve OSCP Certification
+- ✅ Contribute to Open Source
+- ✅ Grow in the Bug Bounty Community
+- ✅ Build Professional Security Tools
+- ✅ Work in Security Research Domain
 
 </td>
 
@@ -130,7 +80,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,bash&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css&theme=dark" />
 
 </td>
 
@@ -138,7 +88,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 ### Frameworks / Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,git,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi&theme=dark" />
 
 </td>
 
@@ -223,7 +173,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 ### 🖥️ Portfolio
 
-Interactive cybersecurity portfolio with terminal and desktop-style interface.
+Interactive cybersecurity portfolio with terminal and desktop interface.
 
 `HTML` `CSS` `JavaScript` `PHP`
 
@@ -237,7 +187,7 @@ Interactive cybersecurity portfolio with terminal and desktop-style interface.
 
 ### 🛒 Tribal Marketplace
 
-E-commerce platform designed for tribal artisans and their products.
+E-commerce platform for tribal artisans.
 
 `PHP` `MySQL` `JavaScript`
 
@@ -247,7 +197,7 @@ E-commerce platform designed for tribal artisans and their products.
 
 ### 🛡️ Vuln Scanner
 
-Python-based vulnerability scanning and security analysis tool.
+Python-based vulnerability scanning tool.
 
 `Python` `Security`
 
@@ -265,9 +215,9 @@ Python-based vulnerability scanning and security analysis tool.
 
 ### 🔎 ReconToolkit
 
-Web-based reconnaissance toolkit for security research and enumeration.
+Web-based reconnaissance toolkit for security research.
 
-`Python` `Flask`
+`Flask` `Python`
 
 <br>
 
@@ -279,9 +229,9 @@ Web-based reconnaissance toolkit for security research and enumeration.
 
 ### ⛓️ ChainTrace
 
-Tamper-evident blockchain-style ledger created for a cybersecurity hackathon.
+Tamper-evident blockchain-style ledger (hackathon project).
 
-`Python` `FastAPI`
+`FastAPI` `Python`
 
 <br>
 
@@ -293,7 +243,7 @@ Tamper-evident blockchain-style ledger created for a cybersecurity hackathon.
 
 ### 📊 Real-Time-Vuln-Correlation
 
-Vulnerability correlation and analysis engine for security research.
+Vulnerability correlation and analysis engine.
 
 `Python` `Security`
 
@@ -304,264 +254,11 @@ Vulnerability correlation and analysis engine for security research.
 </td>
 
 </tr>
-
-<tr>
-
-<td width="33.33%" valign="top">
-
-### 🌐 Web Security Assessment
-
-OWASP-based web application security testing using industry-standard tools.
-
-`Burp Suite` `Nmap` `FFUF` `Gobuster`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🌐 Hotel Booking Website
-
-Responsive hotel booking application built with frontend technologies.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🔐 SYNTEXHUB Port Scanner
-
-Network port scanning and enumeration utility for cybersecurity learning.
-
-`Python` `Networking`
-
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/SYNTEXHUB-port-scanner)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33.33%" valign="top">
-
-### 🔑 Secure-Pass-Analyzer
-
-Password analysis tool for evaluating password strength and weak patterns.
-
-`Python` `Security`
-
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/Secure-Pass-Analyzer)
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🔐 Secure-Login-System
-
-Security-focused authentication and access-control implementation.
-
-`Python` `Security`
-
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/Secure-Login-System)
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🎣 Phishing-Email-Detector
-
-Security project focused on detecting suspicious email characteristics.
-
-`Python` `Security`
-
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/Phishing-Email-Detector)
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="33.33%" valign="top">
-
-### 🗂️ Digital Evidence Management
-
-System for organizing and managing digital evidence in investigation workflows.
-
-`Python` `Security`
-
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/Digital-Evidence-Management-System)
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🐛 Bug Bounty Research
-
-Security research focused on vulnerability discovery, analysis, validation, and responsible disclosure.
-
-`Web Security` `Recon` `Research`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🧪 TryHackMe Journey
-
-Hands-on cybersecurity learning through rooms, labs, CTFs, reconnaissance, and exploitation practice.
-
-🏆 **Top 6% Global**
-
-<br>
-
-[TryHackMe Profile →](https://tryhackme.com/p/kingdomindian67)
-
-</td>
-
-</tr>
 </table>
 
----
+<div align="right">
 
-# 🧪 Security Projects & Practical Work
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-- 🔐 **File Integrity Monitor** — SHA-256 file integrity monitoring
-- 🕵️ **Fake Social Media Profile Detector** — Flask-based detection
-- 🌐 **Web Vulnerability Scanner** — Form and security-header analysis
-- 🔒 **AES-256 File Encryptor** — File encryption utility
-
-</td>
-
-<td width="50%" valign="top">
-
-- 🔎 **Reconnaissance Toolkit** — Automated reconnaissance
-- 📊 **Vulnerability Correlation Engine** — Vulnerability analysis
-- ⛓️ **ChainTrace** — Tamper-evident security ledger
-- 🐛 **Bug Bounty Research** — Vulnerability discovery and research
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏆 Achievements & Goals
-
-<table width="100%">
-<tr>
-
-<td width="50%" valign="top">
-
-### ✅ Achievements
-
-- Practical web security testing
-- Real-world vulnerability research
-- Bug bounty research
-- Cybersecurity project development
-- Custom security tooling
-- Security-focused hackathon participation
-- Open-source security projects
-- 🏆 **TryHackMe Top 6% Global**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🎯 Current Goals
-
-- OSCP Certification
-- Advanced Web Exploitation
-- Professional Security Research
-- Advanced Security Automation
-- Open-source Security Contributions
-- Bug Bounty Community Growth
-- Offensive & Defensive Security Expertise
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🏅 TryHackMe
-
-<div align="center">
-
-### 🏆 Top 6% Global
-
-Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enumeration, web security, networking, and exploitation fundamentals.
-
-<br>
-
-[![TryHackMe](https://img.shields.io/badge/View%20TryHackMe%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kingdomindian67)
-
-</div>
-
----
-
-# 📜 Certifications & Training
-
-<table width="100%">
-<tr>
-
-<th width="70%">Certification / Training</th>
-<th width="30%">Area</th>
-
-</tr>
-
-<tr>
-<td>🎓 Cisco — CCNP Security / Ethical Hacker</td>
-<td>Cybersecurity</td>
-</tr>
-
-<tr>
-<td>☕ Spoken Tutorial (IIT Bombay) — Java Training</td>
-<td>Programming</td>
-</tr>
-
-<tr>
-<td>🛡️ Hack and Fix — SOC Basics</td>
-<td>Security Operations</td>
-</tr>
-
-<tr>
-<td>🏆 TryHackMe — Advent of Cyber 2025</td>
-<td>Cybersecurity</td>
-</tr>
-
-<tr>
-<td>🔎 Nmap & Ethical Hacking</td>
-<td>Network Security</td>
-</tr>
-
-<tr>
-<td>🤖 AI Cybersecurity for Beginners — Free Academy.ai</td>
-<td>AI & Cybersecurity</td>
-</tr>
-
-</table>
-
-<div align="center">
-
-[![View All Certificates](https://img.shields.io/badge/📜%20View%20All%20Certificates-2962FF?style=for-the-badge)](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
+[View all repositories →](https://github.com/Singhdeepak442005?tab=repositories)
 
 </div>
 
@@ -672,33 +369,14 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ddeepak-singh)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddeepakkumar847105@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhdeepak442005)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kingdomindian67)
 [![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepak-cybersecurity-portfolio.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddeepakkumar847105@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918928311874)
 
+<br>
+
+*Thanks for visiting! Feel free to explore my repositories, connect with me, or collaborate on cybersecurity projects.*
+
 </div>
-
----
-
-# ⚔️ Security Research Methodology
-
-<div align="center">
-
-```text
-Reconnaissance
-      ↓
-Enumeration
-      ↓
-Attack Surface Mapping
-      ↓
-Vulnerability Identification
-      ↓
-Controlled Security Testing
-      ↓
-Validation & Analysis
-      ↓
-Responsible Reporting
-      ↓
-Remediation & Security Improvement
