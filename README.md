@@ -8,7 +8,7 @@
 <img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C853?style=flat-square&logo=statuspal&logoColor=white">
 <img src="https://img.shields.io/badge/India-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white">
 <img src="https://img.shields.io/badge/TryHackMe-Top%206%25%20Global-9146FF?style=flat-square&logo=tryhackme&logoColor=white">
-<img src="https://img.shields.io/badge/MCA%20Student-30363D?style=flat-square&logo=academia&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/MCA%20Student-30363D?style=flat-square&logo=academia&logoColor=white"> -->
 </p>
 
 > *"Security is not a product, but a process."* — Bruce Schneier
