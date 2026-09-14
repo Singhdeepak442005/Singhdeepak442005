@@ -1,373 +1,451 @@
 <div align="center">
 
-┌─────────────────────────────────────────────┐
-│  root@deepak:~$ whoami                      │
-└─────────────────────────────────────────────┘
+# 👋 Hi, I'm **Deepak Singh**
 
-# 🖥️ Deepak Singh
+### `Cybersecurity Researcher | Web Security Enthusiast | Bug Hunter`
 
-### `Cybersecurity Researcher | Web Security | Bug Hunter`
-
-![Status](https://img.shields.io/badge/status-open_to_opportunities-00e676?style=flat-square\&logo=terminal\&logoColor=white)
-![Location](https://img.shields.io/badge/based_in-India-00e676?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%206%25%20Global-00e676?style=flat-square\&logo=tryhackme\&logoColor=black)
+![Status](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-00C853?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍%20India-1E88E5?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/🏆%20TryHackMe-Top%206%25%20Global-8E44AD?style=for-the-badge)
+![Education](https://img.shields.io/badge/🎓%20MCA%20Student-37474F?style=for-the-badge)
 
 </div>
 
-<br>
+---
 
-`$ cat about.md`
+## 👨‍💻 About Me
 
-> I am a **Cybersecurity Researcher and MCA student** with a strong focus on **Cybersecurity, Web Application Security, Vulnerability Assessment, Ethical Hacking, and Reconnaissance**.
->
-> My work revolves around understanding how modern web applications and systems operate, identifying security weaknesses, and learning how those weaknesses can be properly secured. I enjoy conducting practical security testing, analyzing vulnerabilities, researching attack surfaces, building security tools, and exploring real-world cybersecurity challenges.
->
-> I have hands-on experience with tools such as **Kali Linux, Burp Suite, Nmap, FFUF, Gobuster, Subfinder, Wireshark, Metasploit, and Postman**, along with technologies including **Python, Flask, FastAPI, React, Next.js, JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Redis, Docker, Git, and Linux**.
->
-> My approach is based on **continuous learning, practical experimentation, responsible security research, ethical testing, and developing a strong understanding of both offensive and defensive cybersecurity**.
->
-> 🎯 Long-term objective: build a professional career in cybersecurity and work toward **OSCP certification**.
+I am a **Cybersecurity Researcher and MCA student** with a strong focus on **Cybersecurity, Web Application Security, Vulnerability Assessment, Ethical Hacking, and Reconnaissance**.
 
-<br>
+My work revolves around understanding how modern web applications and systems operate, identifying security weaknesses, and learning how those weaknesses can be properly secured.
 
-`$ cat profile.json`
+I enjoy working on practical cybersecurity projects, conducting security testing, analyzing vulnerabilities, researching real-world attack surfaces, building security tools, and solving cybersecurity challenges.
 
-```json
-{
-  "name": "Deepak Singh",
-  "role": "Cybersecurity Researcher",
-  "education": "MCA Student",
-  "location": "India",
-  "status": "Open to Opportunities",
-  "focus": [
-    "Web Application Security",
-    "Vulnerability Assessment",
-    "Ethical Hacking",
-    "Reconnaissance",
-    "Bug Hunting",
-    "API Security",
-    "Network Security"
-  ],
-  "tryhackme": "Top 6% Global",
-  "goal": "OSCP"
-}
-```
+I have hands-on experience with security tools such as **Kali Linux, Burp Suite, Nmap, FFUF, Gobuster, Subfinder, Wireshark, Metasploit, and Postman**, along with technologies including **Python, Flask, FastAPI, React, Next.js, JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Redis, Docker, Git, and Linux**.
 
-<br>
+My approach is based on **continuous learning, practical experimentation, responsible security research, ethical testing, and developing a strong understanding of both offensive and defensive cybersecurity**.
 
-`$ ls -la ./interests/`
+> 🎯 **Long-Term Goal:** Build a professional career in cybersecurity, advance into security research, and achieve **OSCP certification**.
 
-| #  | Directory          | Description                                                   |
-| -- | ------------------ | ------------------------------------------------------------- |
-| 01 | `research/`        | Web vulnerabilities and real-world exploitation techniques    |
-| 02 | `recon/`           | Reconnaissance, enumeration and attack-surface discovery      |
-| 03 | `bounty/`          | Bug bounty research and responsible vulnerability disclosure  |
-| 04 | `web-security/`    | OWASP Top 10, API security and web application testing        |
-| 05 | `learning/`        | Advanced exploitation, malware analysis and security concepts |
-| 06 | `ctf/`             | TryHackMe, HackTheBox and Capture The Flag challenges         |
-| 07 | `automation/`      | Security automation and custom cybersecurity tooling          |
-| 08 | `research-papers/` | CVEs, security write-ups and exploit analysis                 |
+---
 
-<br>
+## 🧭 What I Do
 
-`$ cat expertise.txt`
-
-### 🔐 Cybersecurity Expertise
-
-* Web Application Security
-* Vulnerability Assessment
-* Penetration Testing Fundamentals
-* Reconnaissance & Enumeration
-* OWASP Top 10
-* API Security
-* Network Security Fundamentals
-* Bug Hunting & Vulnerability Research
-* Security Testing & Reporting
-* Secure Development Practices
-* Security Automation
-* Linux Security Environment
-
-<br>
-
-`$ cat skills.json`
-
-<div align="center">
-
-### 💻 Programming & Web
-
-![HTML5](https://img.shields.io/badge/HTML5-00e676?style=flat-square\&logo=html5\&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-00e676?style=flat-square\&logo=css3\&logoColor=black)
-![JavaScript](https://img.shields.io/badge/JavaScript-00e676?style=flat-square\&logo=javascript\&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-00e676?style=flat-square\&logo=typescript\&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-00e676?style=flat-square\&logo=php\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-00e676?style=flat-square\&logo=python\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-00e676?style=flat-square\&logo=postgresql\&logoColor=black)
-
-### ⚛️ Frameworks & Backend
-
-![React](https://img.shields.io/badge/React-00e676?style=flat-square\&logo=react\&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-00e676?style=flat-square\&logo=nextdotjs\&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-00e676?style=flat-square\&logo=flask\&logoColor=black)
-![FastAPI](https://img.shields.io/badge/FastAPI-00e676?style=flat-square\&logo=fastapi\&logoColor=black)
-
-### 🗄️ Databases & Infrastructure
-
-![MySQL](https://img.shields.io/badge/MySQL-00e676?style=flat-square\&logo=mysql\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00e676?style=flat-square\&logo=postgresql\&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-00e676?style=flat-square\&logo=redis\&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-00e676?style=flat-square\&logo=docker\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-00e676?style=flat-square\&logo=git\&logoColor=black)
-![GitHub](https://img.shields.io/badge/GitHub-00e676?style=flat-square\&logo=github\&logoColor=black)
-
-### 🐧 Operating Systems & Scripting
-
-![Linux](https://img.shields.io/badge/Linux-00e676?style=flat-square\&logo=linux\&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-00e676?style=flat-square\&logo=gnubash\&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-00e676?style=flat-square\&logo=kalilinux\&logoColor=black)
-
-</div>
-
-<br>
-
-`$ ./run_toolkit.sh --list`
-
-<div align="center">
-
-`NMAP` `BURP SUITE` `FFUF` `GOBUSTER` `SUBFINDER`
-
-`WIRESHARK` `METASPLOIT` `POSTMAN` `KALI LINUX`
-
-</div>
-
-<br>
-
-`$ find ./projects -type f -maxdepth 2`
-
-### 🚀 Featured Projects
-
-| Project                                        | Description                                                                     | Technologies                                 |
-| ---------------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------- |
-| **Cybersecurity Portfolio**                    | Kali Linux-inspired interactive cybersecurity portfolio                         | HTML, CSS, JavaScript, PHP                   |
-| **Tribal Marketplace**                         | E-commerce platform for tribal artisans                                         | HTML, CSS, JavaScript, PHP, MySQL            |
-| **Web Application Security Assessment**        | Practical security testing using OWASP methodology and security tools           | Burp Suite, Nmap, FFUF, Gobuster, Kali Linux |
-| **Real-Time Vulnerability Correlation Engine** | Security-focused engine for correlating and analyzing vulnerability information | Python                                       |
-| **ChainTrace**                                 | Tamper-evident blockchain-style ledger for cybersecurity/hackathon use cases    | Python, FastAPI                              |
-| **ReconToolkit**                               | Web-based reconnaissance toolkit for security research and target management    | Python, Flask                                |
-| **Vulnerability Scanner**                      | Python-based vulnerability scanning and security assessment project             | Python                                       |
-| **SYNTEXHUB Port Scanner**                     | Network port scanning and enumeration utility                                   | Python                                       |
-| **Hotel Booking Website**                      | Responsive web-based hotel booking project                                      | HTML, CSS, JavaScript                        |
-
-<br>
-
-`$ ls ./internship-projects/`
-
-### 🧪 Security Projects & Practical Work
-
-* **File Integrity Monitor** — SHA-256 based file integrity monitoring
-* **Fake Social Media Profile Detector** — Flask-based detection project
-* **Web Vulnerability Scanner** — HTML form analysis and HTTP security-header analysis
-* **AES-256 File Encryptor** — File encryption and security utility
-* **Reconnaissance Toolkit** — Automated reconnaissance and enumeration workflow
-* **Real-Time Vulnerability Correlation Engine** — Vulnerability analysis and correlation
-* **ChainTrace** — Tamper-evident security ledger implementation
-
-<br>
-
-`$ cat learning.log`
-
-### 🧠 Cybersecurity Learning
-
-* 🏆 **TryHackMe — Top 6% Global**
-* 🔎 Web Application Security
-* 🛡️ OWASP Top 10
-* 🌐 Network Security
-* 🔐 Vulnerability Assessment
-* 🎯 Reconnaissance & Enumeration
-* 🐛 Bug Bounty Methodology
-* 💻 Linux & Security Tooling
-* 🧪 Capture The Flag Challenges
-* 📚 CVE & Security Research
-* ⚙️ Security Automation
-
-<br>
-
-`$ ping deepak --connect`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00e676?style=flat-square\&logo=linkedin\&logoColor=black)](https://linkedin.com/in/ddeepak-singh)
-[![Gmail](https://img.shields.io/badge/Gmail-00e676?style=flat-square\&logo=gmail\&logoColor=black)](mailto:ddeepakkumar847105@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-00e676?style=flat-square\&logo=whatsapp\&logoColor=black)](https://wa.me/918928311874)
-[![GitHub](https://img.shields.io/badge/GitHub-00e676?style=flat-square\&logo=github\&logoColor=black)](https://github.com/Singhdeepak442005)
-
-</div>
-
-<br>
-
-`$ github-stats --fetch`
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00e676&style=flat-square&labelColor=0d0d0d" />
-<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=flat-square&color=00e676&labelColor=0d0d0d&logo=github&logoColor=white" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
-
-<br><br>
-
-<img src="https://ghchart.rshah.org/00e676/Singhdeepak442005" width="90%" alt="GitHub Contribution Graph"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=tokyonight" width="95%"/>
-
-<br><br>
-
-<table width="95%">
+<table>
 <tr>
-<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=tokyonight" width="100%"/>
+<td width="33%" valign="top">
+
+### 🔍 Web Security
+
+- Web Application Security
+- OWASP Top 10
+- Vulnerability Assessment
+- API Security
+- Security Testing
+- Authentication Testing
 
 </td>
-<td width="50%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=tokyonight" width="100%"/>
+<td width="33%" valign="top">
+
+### 🎯 Security Research
+
+- Reconnaissance
+- Enumeration
+- Attack Surface Discovery
+- Bug Hunting
+- Vulnerability Research
+- Responsible Disclosure
 
 </td>
+
+<td width="33%" valign="top">
+
+### 🛠️ Security Development
+
+- Security Automation
+- Python Tooling
+- Custom Security Scripts
+- Vulnerability Scanners
+- Reconnaissance Tools
+- Security-focused Applications
+
+</td>
+
 </tr>
 </table>
 
-</div>
+---
 
-<br>
+## 📚 Currently Learning
 
-`$ cat achievements.log`
-
-<table align="center">
+<table>
 <tr>
-<td width="50%" valign="top">
 
-### `[COMPLETED]`
+<td width="33%">
 
-* ✅ Reported vulnerabilities in real-world applications
-* ✅ Practical web security testing
-* ✅ Active bug bounty research
-* ✅ Built multiple cybersecurity projects
-* ✅ Developed custom security tools
-* ✅ Contributed to open-source security projects
-* ✅ Built a practical cybersecurity portfolio
-* ✅ Participated in cybersecurity/hackathon projects
-* ✅ **TryHackMe — Top 6% Global**
+🔐 **Advanced Web Exploitation**
+
+- Web vulnerabilities
+- API security
+- Authentication
+- Authorization
+- Exploitation techniques
 
 </td>
-<td width="50%" valign="top">
 
-### `[IN_PROGRESS]`
+<td width="33%">
 
-* 🚀 Achieve **OSCP certification**
-* 🚀 Advance into professional-grade security research
-* 🚀 Improve advanced web exploitation skills
-* 🚀 Expand open-source security contributions
-* 🚀 Develop advanced security automation tools
-* 🚀 Strengthen bug bounty research
-* 🚀 Build expertise in offensive and defensive security
+🧪 **Security Research**
+
+- Bug bounty methodology
+- CVE research
+- Exploit analysis
+- Malware analysis
+- Security write-ups
 
 </td>
+
+<td width="33%">
+
+⚙️ **Advanced Tooling**
+
+- Security automation
+- Python
+- Recon frameworks
+- Vulnerability correlation
+- OSCP preparation
+
+</td>
+
 </tr>
 </table>
 
-<br>
+---
 
-`$ cat certifications.txt`
+# 💻 Tech Stack
 
-### 📜 Certifications & Training
-
-* `[✓]` Cisco — CCNP Security / Ethical Hacker
-* `[✓]` Spoken Tutorial (IIT Bombay) — Java Training
-* `[✓]` Hack and Fix — Security Operations / SOC Basics
-* `[✓]` TryHackMe — Advent of Cyber 2025
-* `[✓]` Cyber Security — Nmap & Ethical Hacking
-* `[✓]` AI Cybersecurity for Beginners — Free Academy.ai
-
-[`→ view_all_certificates`](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
-
-<br>
+### Languages
 
 <div align="center">
 
-![Cisco](https://img.shields.io/badge/Cisco-CCNP%20Security-00e676?style=flat-square\&logo=cisco\&logoColor=black)
-![IIT Bombay](https://img.shields.io/badge/IIT%20Bombay-Java%20Training-00e676?style=flat-square)
-![SOC](https://img.shields.io/badge/SOC%20Basics-Hack%20%26%20Fix-00e676?style=flat-square)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025-00e676?style=flat-square\&logo=tryhackme\&logoColor=black)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-Nmap%20%7C%20Ethical%20Hacking-00e676?style=flat-square)
-![AI Security](https://img.shields.io/badge/AI%20Cybersecurity-Free%20Academy.ai-00e676?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 </div>
 
-<br>
-
-`$ cat methodology.md`
-
-### ⚔️ Security Research Approach
-
-```text
-01. Reconnaissance
-        ↓
-02. Enumeration
-        ↓
-03. Attack Surface Mapping
-        ↓
-04. Vulnerability Identification
-        ↓
-05. Controlled Security Testing
-        ↓
-06. Analysis & Validation
-        ↓
-07. Responsible Reporting
-        ↓
-08. Remediation & Security Improvement
-```
-
-> **Responsible security research only.**
-> All testing is performed on systems where authorization has been granted.
-
-<br>
-
-`$ cat current-focus.txt`
-
-```text
-[+] Web Application Security
-[+] Vulnerability Research
-[+] Reconnaissance & Enumeration
-[+] Bug Bounty
-[+] Security Automation
-[+] Python Security Tooling
-[+] API Security
-[+] Network Security
-[+] Professional Security Research
-[+] OSCP Preparation
-```
-
-<br>
+### Frameworks & Development
 
 <div align="center">
 
-┌─────────────────────────────────────────────┐
-│  $ echo "Security is not a product,         │
-│         but a process."                     │
-│                                             │
-│  root@deepak:~$ _                           │
-└─────────────────────────────────────────────┘
-
-<br>
-
-### ⚡ Keep Learning. Keep Testing. Keep Securing.
-
-<sub>
-Thanks for visiting my profile — feel free to explore my repositories, connect with me, or collaborate on cybersecurity projects.
-</sub>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 </div>
+
+### Databases & Infrastructure
+
+<div align="center">
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+# 🛡️ Security Tools
+
+<div align="center">
+
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004065?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![FFUF](https://img.shields.io/badge/FFUF-111111?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-222222?style=for-the-badge)
+![Subfinder](https://img.shields.io/badge/Subfinder-1E88E5?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🖥️ Cybersecurity Portfolio
+
+Kali Linux-inspired interactive cybersecurity portfolio with a terminal and desktop-style interface.
+
+**Tech:**  
+`HTML` `CSS` `JavaScript` `PHP`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛒 Tribal Marketplace
+
+E-commerce platform designed for tribal artisans and their products.
+
+**Tech:**  
+`PHP` `MySQL` `JavaScript`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛡️ Vulnerability Scanner
+
+Python-based project for identifying and analyzing web security weaknesses.
+
+**Tech:**  
+`Python` `Security`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔎 ReconToolkit
+
+Web-based reconnaissance toolkit for security research, enumeration and target management.
+
+**Tech:**  
+`Python` `Flask`
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⛓️ ChainTrace
+
+Tamper-evident blockchain-style ledger created for a cybersecurity hackathon project.
+
+**Tech:**  
+`Python` `FastAPI`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📊 Real-Time Vulnerability Correlation Engine
+
+Security-focused project for correlating and analyzing vulnerability information.
+
+**Tech:**  
+`Python` `Security`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🌐 Web Application Security Assessment
+
+Practical security testing based on OWASP methodology using industry-standard security tools.
+
+**Tools:**  
+`Burp Suite` `Nmap` `FFUF` `Gobuster`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🌐 Hotel Booking Website
+
+Responsive web-based hotel booking application developed using frontend technologies.
+
+**Tech:**  
+`HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔐 SYNTEXHUB Port Scanner
+
+Network port scanning and enumeration utility developed for cybersecurity learning and research.
+
+**Tech:**  
+`Python` `Networking`
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧪 Security Projects & Practical Work
+
+- 🔐 **File Integrity Monitor** — SHA-256 based file integrity monitoring
+- 🕵️ **Fake Social Media Profile Detector** — Flask-based detection project
+- 🌐 **Web Vulnerability Scanner** — HTML form and HTTP security-header analysis
+- 🔒 **AES-256 File Encryptor** — File encryption utility
+- 🔎 **Reconnaissance Toolkit** — Automated reconnaissance and enumeration
+- 📊 **Vulnerability Correlation Engine** — Vulnerability analysis and correlation
+- ⛓️ **ChainTrace** — Tamper-evident security ledger
+- 🐛 **Bug Bounty Research** — Security research and vulnerability discovery
+
+---
+
+# 🏆 Achievements
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### Completed
+
+- ✅ Practical web security testing
+- ✅ Real-world vulnerability research
+- ✅ Bug bounty research
+- ✅ Cybersecurity project development
+- ✅ Custom security tooling
+- ✅ Security-focused hackathon participation
+- ✅ Open-source security projects
+- ✅ **TryHackMe Top 6% Global**
+
+</td>
+
+<td width="50%" valign="top">
+
+### Current Goals
+
+- 🎯 **OSCP Certification**
+- 🎯 Advanced Web Exploitation
+- 🎯 Professional Security Research
+- 🎯 Advanced Security Automation
+- 🎯 Open-source Security Contributions
+- 🎯 Bug Bounty Community Growth
+- 🎯 Offensive & Defensive Security Expertise
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🏅 TryHackMe
+
+<div align="center">
+
+### 🏆 **Top 6% Global**
+
+Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enumeration, web security and exploitation fundamentals.
+
+</div>
+
+---
+
+# 📜 Certifications & Training
+
+| Certification / Training | Area |
+|---|---|
+| 🎓 Cisco — CCNP Security / Ethical Hacker | Cybersecurity |
+| ☕ Spoken Tutorial (IIT Bombay) — Java | Programming |
+| 🛡️ Hack and Fix — SOC Basics | Security Operations |
+| 🏆 TryHackMe — Advent of Cyber 2025 | Cybersecurity |
+| 🔎 Nmap & Ethical Hacking | Network Security |
+| 🤖 AI Cybersecurity for Beginners — Free Academy.ai | AI & Cybersecurity |
+
+### [→ View All Certificates](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00C853&style=for-the-badge&labelColor=1B1F23" />
+
+<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=for-the-badge&color=00C853&labelColor=1B1F23&logo=github&logoColor=white" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=github_dark" width="90%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=github_dark" width="45%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=github_dark" width="45%"/>
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/00C853/Singhdeepak442005" width="90%" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ddeepak-singh)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhdeepak442005)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kingdomindian67)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepak-cybersecurity-portfolio.netlify.app/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddeepakkumar847105@gmail.com)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918928311874)
+
+</div>
+
+---
+
+# ⚔️ Security Research Methodology
+
+```text
+Reconnaissance
+      ↓
+Enumeration
+      ↓
+Attack Surface Mapping
+      ↓
+Vulnerability Identification
+      ↓
+Controlled Security Testing
+      ↓
+Validation & Analysis
+      ↓
+Responsible Reporting
+      ↓
+Remediation & Security Improvement
