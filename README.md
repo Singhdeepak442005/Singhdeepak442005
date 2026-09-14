@@ -2,14 +2,20 @@
 <div align="center" style="
   background: linear-gradient(135deg, #0a0a0a, #111111);
   padding: 40px;
+  border-radius: 22px;
   box-shadow: 0 0 25px rgba(0,255,180,0.35);
   border: 1px solid rgba(0,255,180,0.25);
   margin-bottom: 25px;
 ">
-  border-radius: 22px;
 
 <h1 style="color:#00ffb4;">Hi 👋, I'm Deepak Singh</h1>
-<h3 style="color:#e0e0e0;">Cybersecurity Researcher • Web Security Enthusiast • Bug Hunter</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFB4&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Web+Security+Enthusiast;Bug+Hunter+%26+CTF+Player;Aspiring+OSCP" alt="Typing SVG" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00ffb4&style=flat" />
+<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=flat&color=00ffb4" />
 
 </div>
 
@@ -32,7 +38,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ---
 
-## 🎯 Interests
+## 🎯 Interests & Focus
 
 <div align="center">
 
@@ -42,7 +48,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 | 🤝 **Collaborating** | Security research, bug bounty programs, secure development |
 | 🧠 **Learning** | Advanced exploitation, malware analysis, automation & tooling |
 | 🛡️ **Focus Area** | Web app security, API security, network security |
-| 🧩 **CTF/Practice** | TryHackMe, HackTheBox, Capture The Flag challenges |
+| 🧩 **CTF / Practice** | TryHackMe, HackTheBox, Capture The Flag challenges |
 | 📖 **Reading** | Security research papers, CVE write-ups, exploit breakdowns |
 | 🛠️ **Building** | Automation scripts, custom security tools |
 
@@ -52,24 +58,11 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ## 💡 Expertise
 
-- Web Security & Vulnerability Assessment
-- Penetration Testing & Reconnaissance
-- Secure Development Practices
-- Bug Hunting & Exploit Research
-- Linux • Bash • Python • GitHub Actions
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://wa.me/918928311874"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" /></a>
-<!-- <a href="https://instagram.com/black_d_a_r_k_official"><img src="https://skillicons.dev/icons?i=instagram" /></a> -->
-
-</div>
+- 🔐 Web Security & Vulnerability Assessment
+- 🎯 Penetration Testing & Reconnaissance
+- 🛡️ Secure Development Practices
+- 🐛 Bug Hunting & Exploit Research
+- 🐧 Linux • Bash • Python • GitHub Actions
 
 ---
 
@@ -77,18 +70,13 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=bash" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=html,css,linux,bash,python,github,git,vscode" />
 
 </div>
 
 ---
 
-## 🛠️ Tools
+## 🛠️ Security Tools
 
 <div align="center">
 
@@ -103,15 +91,27 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ---
 
-## 🔹 Progress Badges
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://wa.me/918928311874"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" /></a>
+
+</div>
+
+---
+
+## 🔥 GitHub Streak & Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true"/>
 
-<br>
+<br><br>
 
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true"/> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
 
@@ -139,10 +139,6 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 </td>
 </tr>
 </table>
-
-<br>
-
-<!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true&area=true" width="95%"/> -->
 
 </div>
 
@@ -206,10 +202,6 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 [View All Certificates →](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
 
----
-
-## 🎖️ Certification Badges
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Cisco-CCNP%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
@@ -224,3 +216,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 ---
 
 <h3 align="center">⚡ Security is not a product, but a process.</h3>
+
+<div align="center">
+<i>Thanks for visiting — feel free to connect or drop a message!</i>
+</div>
