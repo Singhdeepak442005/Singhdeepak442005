@@ -171,31 +171,31 @@ My goal is to understand how modern web applications and systems operate, identi
 
 <td width="33.33%" valign="top">
 
-### 🖥️ Portfolio
+### 📊 Real-Time Vulnerability Correlation Engine
 
-Interactive cybersecurity portfolio with terminal and desktop interface.
+Vulnerability correlation and analysis engine for prioritizing and analyzing security findings.
 
-`HTML` `CSS` `JavaScript` `PHP`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### 🛒 Tribal Marketplace
-
-E-commerce platform for tribal artisans.
-
-`PHP` `MySQL` `JavaScript`
+`Python` `FastAPI` `Security`
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 🛡️ Vuln Scanner
+### ⛓️ ChainTrace
 
-Python-based vulnerability scanning tool.
+Tamper-evident blockchain-style ledger developed as a cybersecurity hackathon project.
 
-`Python` `Security`
+`FastAPI` `Python` `Blockchain`
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🔎 ReconToolkit
+
+Web-based reconnaissance toolkit for security research and structured target enumeration.
+
+`Flask` `Python` `Reconnaissance`
 
 </td>
 
@@ -205,31 +205,31 @@ Python-based vulnerability scanning tool.
 
 <td width="33.33%" valign="top">
 
-### 🔎 ReconToolkit
+### 🛡️ Vulnerability Scanner
 
-Web-based reconnaissance toolkit for security research.
+Python-based vulnerability scanning tool for identifying common web security issues.
 
-`Flask` `Python`
-
-</td>
-
-<td width="33.33%" valign="top">
-
-### ⛓️ ChainTrace
-
-Tamper-evident blockchain-style ledger (hackathon project).
-
-`FastAPI` `Python`
+`Python` `Web Security`
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 📊 Real-Time-Vuln-Correlation
+### 🖥️ Cybersecurity Portfolio Website
 
-Vulnerability correlation and analysis engine.
+Interactive cybersecurity website featuring a terminal-inspired interface and security-focused project showcase.
 
-`Python` `Security`
+`Next.js` `TypeScript` `Tailwind CSS`
+
+</td>
+
+<td width="33.33%" valign="top">
+
+### 🛒 Tribal Marketplace
+
+E-commerce platform designed to support tribal artisans and showcase their products online.
+
+`PHP` `MySQL` `JavaScript`
 
 </td>
 
