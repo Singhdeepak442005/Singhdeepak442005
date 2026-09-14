@@ -242,15 +242,23 @@ Vulnerability correlation and analysis engine.
 
 <div align="center">
 
+<table width="100%">
+<tr>
+<td align="center">
+
 <img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00C853&style=flat-square&labelColor=1B1F23">
 &nbsp;
 <img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=flat-square&color=00C853&labelColor=1B1F23&logo=github&logoColor=white">
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" width="85%">
+<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" width="95%">
 
-<br><br>
+</td>
+</tr>
+</table>
+
+<br>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=github_dark" width="90%">
 
