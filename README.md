@@ -1,13 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm **Deepak Singh**
+# 👋 Hi, I'm <span style="color:#58A6FF;">Deepak Singh</span>
 
-### `Cybersecurity Researcher | Web Security Enthusiast | Bug Hunter`
+### Cybersecurity Researcher | Web Security Enthusiast | Bug Hunter
 
-![Open to Opportunities](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-00C853?style=for-the-badge)
-![India](https://img.shields.io/badge/📍%20India-1E88E5?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/🏆%20TryHackMe-Top%206%25%20Global-8E44AD?style=for-the-badge)
-![MCA Student](https://img.shields.io/badge/🎓%20MCA%20Student-37474F?style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/Open%20to%20Opportunities-00C853?style=flat-square&logo=statuspal&logoColor=white">
+<img src="https://img.shields.io/badge/India-1F6FEB?style=flat-square&logo=googlemaps&logoColor=white">
+<img src="https://img.shields.io/badge/TryHackMe-Top%206%25%20Global-9146FF?style=flat-square&logo=tryhackme&logoColor=white">
+<img src="https://img.shields.io/badge/MCA%20Student-30363D?style=flat-square&logo=academia&logoColor=white">
+</p>
 
 </div>
 
@@ -17,11 +19,9 @@
 
 I am a **Cybersecurity Researcher and MCA student** with a strong focus on **Cybersecurity, Web Application Security, Vulnerability Assessment, Ethical Hacking, and Reconnaissance**.
 
-My work revolves around understanding how modern web applications and systems operate, identifying security weaknesses, and learning how those weaknesses can be properly secured.
+My work revolves around understanding how modern web applications and systems operate, identifying security weaknesses, and learning how those weaknesses can be properly secured. I enjoy working on practical cybersecurity projects, conducting security testing, analyzing vulnerabilities, researching real-world attack surfaces, building security tools, and exploring cybersecurity challenges.
 
-I enjoy working on practical cybersecurity projects, conducting security testing, analyzing vulnerabilities, researching real-world attack surfaces, building security tools, and exploring cybersecurity challenges.
-
-I have hands-on experience with tools such as **Kali Linux, Burp Suite, Nmap, FFUF, Gobuster, Subfinder, Wireshark, Metasploit, and Postman**, along with technologies including **Python, Flask, FastAPI, React, Next.js, JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Redis, Docker, Git, and Linux**.
+I have hands-on experience with **Kali Linux, Burp Suite, Nmap, FFUF, Gobuster, Subfinder, Wireshark, Metasploit, and Postman**, along with technologies including **Python, Flask, FastAPI, React, Next.js, JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Redis, Docker, Git, and Linux**.
 
 My approach is based on **continuous learning, practical experimentation, responsible security research, ethical testing, and developing a strong understanding of both offensive and defensive cybersecurity**.
 
@@ -29,20 +29,19 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 ---
 
-## 🧭 What I Do
+## 🔎 What I Do
 
 <table width="100%">
 <tr>
 
 <td width="33.33%" valign="top">
 
-### 🔍 Web Security
+### 🔵 Web Security
 
 - Web Application Security
 - OWASP Top 10
 - Vulnerability Assessment
 - API Security
-- Security Testing
 - Authentication Testing
 
 </td>
@@ -56,20 +55,18 @@ My approach is based on **continuous learning, practical experimentation, respon
 - Attack Surface Discovery
 - Bug Hunting
 - Vulnerability Research
-- Responsible Disclosure
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 🛠️ Security Development
+### ⚙️ Security Development
 
 - Security Automation
 - Python Tooling
 - Custom Security Scripts
 - Vulnerability Scanners
 - Reconnaissance Tools
-- Security Applications
 
 </td>
 
@@ -87,7 +84,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 ### 🔐 Advanced Web Security
 
-- Web Vulnerabilities
+- Advanced Web Exploitation
 - API Security
 - Authentication
 - Authorization
@@ -126,44 +123,35 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 # 💻 Tech Stack
 
+<table width="100%">
+<tr>
+
+<td width="33.33%" align="center" valign="middle">
+
 ### Languages
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css,bash&theme=dark" />
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+</td>
 
-</div>
+<td width="33.33%" align="center" valign="middle">
 
-### Frameworks & Development
+### Frameworks / Tools
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,fastapi,git,vscode&theme=dark" />
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+</td>
 
-</div>
+<td width="33.33%" align="center" valign="middle">
 
-### Databases & Infrastructure
+### Databases / DevOps
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,docker,github,linux&theme=dark" />
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</td>
 
-</div>
+</tr>
+</table>
 
 ---
 
@@ -171,15 +159,56 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 <div align="center">
 
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004065?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![FFUF](https://img.shields.io/badge/FFUF-111111?style=for-the-badge)
-![Gobuster](https://img.shields.io/badge/Gobuster-222222?style=for-the-badge)
-![Subfinder](https://img.shields.io/badge/Subfinder-1E88E5?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<table width="100%">
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45"><br>
+<sub>Kali Linux</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Nmap-004065?style=flat-square&logo=nmap&logoColor=white" height="28"><br>
+<sub>Nmap</sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45"><br>
+<sub>Burp Suite</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/FFUF-111111?style=flat-square&logoColor=white" height="28"><br>
+<sub>FFUF</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Gobuster-222222?style=flat-square&logoColor=white" height="28"><br>
+<sub>Gobuster</sub>
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/Subfinder-1E88E5?style=flat-square&logoColor=white" height="28"><br>
+<sub>Subfinder</sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"><br>
+<sub>Wireshark</sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/metasploit/2596CD" width="45"><br>
+<sub>Metasploit</sub>
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="45"><br>
+<sub>Postman</sub>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -192,14 +221,15 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 <td width="33.33%" valign="top">
 
-### 🖥️ Cybersecurity Portfolio
+### 🖥️ Portfolio
 
-Kali Linux-inspired interactive cybersecurity portfolio with a terminal and desktop-style interface.
+Interactive cybersecurity portfolio with terminal and desktop-style interface.
 
-**Tech:**  
 `HTML` `CSS` `JavaScript` `PHP`
 
-[View Repository →](https://github.com/Singhdeepak442005/Portfolio_v1.2.0)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/Portfolio_v1.2.0)
 
 </td>
 
@@ -209,21 +239,21 @@ Kali Linux-inspired interactive cybersecurity portfolio with a terminal and desk
 
 E-commerce platform designed for tribal artisans and their products.
 
-**Tech:**  
 `PHP` `MySQL` `JavaScript`
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 🛡️ Vulnerability Scanner
+### 🛡️ Vuln Scanner
 
-Python-based security tool for identifying and analyzing web security weaknesses.
+Python-based vulnerability scanning and security analysis tool.
 
-**Tech:**  
 `Python` `Security`
 
-[View Repository →](https://github.com/Singhdeepak442005/Vulnerability-Scanner)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/Vulnerability-Scanner)
 
 </td>
 
@@ -235,12 +265,13 @@ Python-based security tool for identifying and analyzing web security weaknesses
 
 ### 🔎 ReconToolkit
 
-Web-based reconnaissance toolkit for security research, enumeration, and target management.
+Web-based reconnaissance toolkit for security research and enumeration.
 
-**Tech:**  
 `Python` `Flask`
 
-[View Repository →](https://github.com/Singhdeepak442005/ReconToolkit)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/ReconToolkit)
 
 </td>
 
@@ -248,25 +279,27 @@ Web-based reconnaissance toolkit for security research, enumeration, and target 
 
 ### ⛓️ ChainTrace
 
-Tamper-evident blockchain-style ledger created for a cybersecurity hackathon project.
+Tamper-evident blockchain-style ledger created for a cybersecurity hackathon.
 
-**Tech:**  
 `Python` `FastAPI`
 
-[View Repository →](https://github.com/Singhdeepak442005/ChainTrace)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/ChainTrace)
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 📊 Real-Time Vulnerability Correlation Engine
+### 📊 Real-Time-Vuln-Correlation
 
-Security-focused project for correlating and analyzing vulnerability information.
+Vulnerability correlation and analysis engine for security research.
 
-**Tech:**  
 `Python` `Security`
 
-[View Repository →](https://github.com/Singhdeepak442005/Real-Time-Vulnerability-Correlation-Engine)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/Real-Time-Vulnerability-Correlation-Engine)
 
 </td>
 
@@ -276,11 +309,10 @@ Security-focused project for correlating and analyzing vulnerability information
 
 <td width="33.33%" valign="top">
 
-### 🌐 Web Application Security Assessment
+### 🌐 Web Security Assessment
 
-Practical security testing based on OWASP methodology using industry-standard security tools.
+OWASP-based web application security testing using industry-standard tools.
 
-**Tools:**  
 `Burp Suite` `Nmap` `FFUF` `Gobuster`
 
 </td>
@@ -289,9 +321,8 @@ Practical security testing based on OWASP methodology using industry-standard se
 
 ### 🌐 Hotel Booking Website
 
-Responsive web-based hotel booking application developed using frontend technologies.
+Responsive hotel booking application built with frontend technologies.
 
-**Tech:**  
 `HTML` `CSS` `JavaScript`
 
 </td>
@@ -300,12 +331,13 @@ Responsive web-based hotel booking application developed using frontend technolo
 
 ### 🔐 SYNTEXHUB Port Scanner
 
-Network port scanning and enumeration utility developed for cybersecurity learning and research.
+Network port scanning and enumeration utility for cybersecurity learning.
 
-**Tech:**  
 `Python` `Networking`
 
-[View Repository →](https://github.com/Singhdeepak442005/SYNTEXHUB-port-scanner)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/SYNTEXHUB-port-scanner)
 
 </td>
 
@@ -317,12 +349,13 @@ Network port scanning and enumeration utility developed for cybersecurity learni
 
 ### 🔑 Secure-Pass-Analyzer
 
-Security-focused password analysis tool for evaluating password strength and identifying weak patterns.
+Password analysis tool for evaluating password strength and weak patterns.
 
-**Tech:**  
 `Python` `Security`
 
-[View Repository →](https://github.com/Singhdeepak442005/Secure-Pass-Analyzer)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/Secure-Pass-Analyzer)
 
 </td>
 
@@ -330,25 +363,27 @@ Security-focused password analysis tool for evaluating password strength and ide
 
 ### 🔐 Secure-Login-System
 
-Security-focused authentication project demonstrating secure login and access-control concepts.
+Security-focused authentication and access-control implementation.
 
-**Tech:**  
 `Python` `Security`
 
-[View Repository →](https://github.com/Singhdeepak442005/Secure-Login-System)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/Secure-Login-System)
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 🎣 Phishing Email Detector
+### 🎣 Phishing-Email-Detector
 
-Security project focused on detecting suspicious and potentially malicious email characteristics.
+Security project focused on detecting suspicious email characteristics.
 
-**Tech:**  
 `Python` `Security`
 
-[View Repository →](https://github.com/Singhdeepak442005/Phishing-Email-Detector)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/Phishing-Email-Detector)
 
 </td>
 
@@ -358,14 +393,15 @@ Security project focused on detecting suspicious and potentially malicious email
 
 <td width="33.33%" valign="top">
 
-### 🗂️ Digital Evidence Management System
+### 🗂️ Digital Evidence Management
 
-System designed to organize and manage digital evidence for security and investigation workflows.
+System for organizing and managing digital evidence in investigation workflows.
 
-**Tech:**  
 `Python` `Security`
 
-[View Repository →](https://github.com/Singhdeepak442005/Digital-Evidence-Management-System)
+<br>
+
+[Repository →](https://github.com/Singhdeepak442005/Digital-Evidence-Management-System)
 
 </td>
 
@@ -373,25 +409,23 @@ System designed to organize and manage digital evidence for security and investi
 
 ### 🐛 Bug Bounty Research
 
-Practical security research focused on vulnerability discovery, analysis, validation, and responsible disclosure.
+Security research focused on vulnerability discovery, analysis, validation, and responsible disclosure.
 
-**Focus:**  
-`Web Security` `Recon` `Vulnerability Research`
+`Web Security` `Recon` `Research`
 
 </td>
 
 <td width="33.33%" valign="top">
 
-### 🧪 TryHackMe Learning Journey
+### 🧪 TryHackMe Journey
 
-Hands-on cybersecurity learning through rooms, labs, CTF challenges, reconnaissance, and exploitation practice.
-
-**Focus:**  
-`CTF` `Web Security` `Networking`
+Hands-on cybersecurity learning through rooms, labs, CTFs, reconnaissance, and exploitation practice.
 
 🏆 **Top 6% Global**
 
-[View Profile →](https://tryhackme.com/p/kingdomindian67)
+<br>
+
+[TryHackMe Profile →](https://tryhackme.com/p/kingdomindian67)
 
 </td>
 
@@ -407,33 +441,19 @@ Hands-on cybersecurity learning through rooms, labs, CTF challenges, reconnaissa
 
 <td width="50%" valign="top">
 
-- 🔐 **File Integrity Monitor**  
-  SHA-256 based file integrity monitoring
-
-- 🕵️ **Fake Social Media Profile Detector**  
-  Flask-based detection project
-
-- 🌐 **Web Vulnerability Scanner**  
-  HTML form and HTTP security-header analysis
-
-- 🔒 **AES-256 File Encryptor**  
-  File encryption utility
+- 🔐 **File Integrity Monitor** — SHA-256 file integrity monitoring
+- 🕵️ **Fake Social Media Profile Detector** — Flask-based detection
+- 🌐 **Web Vulnerability Scanner** — Form and security-header analysis
+- 🔒 **AES-256 File Encryptor** — File encryption utility
 
 </td>
 
 <td width="50%" valign="top">
 
-- 🔎 **Reconnaissance Toolkit**  
-  Automated reconnaissance and enumeration
-
-- 📊 **Vulnerability Correlation Engine**  
-  Vulnerability analysis and correlation
-
-- ⛓️ **ChainTrace**  
-  Tamper-evident security ledger
-
-- 🐛 **Bug Bounty Research**  
-  Security research and vulnerability discovery
+- 🔎 **Reconnaissance Toolkit** — Automated reconnaissance
+- 📊 **Vulnerability Correlation Engine** — Vulnerability analysis
+- ⛓️ **ChainTrace** — Tamper-evident security ledger
+- 🐛 **Bug Bounty Research** — Vulnerability discovery and research
 
 </td>
 
@@ -458,7 +478,7 @@ Hands-on cybersecurity learning through rooms, labs, CTF challenges, reconnaissa
 - Custom security tooling
 - Security-focused hackathon participation
 - Open-source security projects
-- **TryHackMe Top 6% Global**
+- 🏆 **TryHackMe Top 6% Global**
 
 </td>
 
@@ -485,7 +505,7 @@ Hands-on cybersecurity learning through rooms, labs, CTF challenges, reconnaissa
 
 <div align="center">
 
-### 🏆 **Top 6% Global**
+### 🏆 Top 6% Global
 
 Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enumeration, web security, networking, and exploitation fundamentals.
 
@@ -501,8 +521,10 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 <table width="100%">
 <tr>
+
 <th width="70%">Certification / Training</th>
 <th width="30%">Area</th>
+
 </tr>
 
 <tr>
@@ -537,11 +559,9 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 </table>
 
-<br>
-
 <div align="center">
 
-[![View Certificates](https://img.shields.io/badge/📜%20View%20All%20Certificates-2962FF?style=for-the-badge)](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
+[![View All Certificates](https://img.shields.io/badge/📜%20View%20All%20Certificates-2962FF?style=for-the-badge)](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
 
 </div>
 
@@ -549,34 +569,54 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00C853&style=for-the-badge&labelColor=1B1F23" />
-
-<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=for-the-badge&color=00C853&labelColor=1B1F23&logo=github&logoColor=white" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" width="90%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=github_dark" width="90%" />
-
-<br><br>
-
 <table width="100%">
 <tr>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=github_dark" width="100%" />
+### ⭐
+
+**Total Stars**
+
+`—`
+
+<sub>Across repositories</sub>
 
 </td>
 
-<td width="50%" align="center">
+<td width="25%" align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=github_dark" width="100%" />
+### 🍴
+
+**Total Forks**
+
+`—`
+
+<sub>Across repositories</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+### 📈
+
+**Contributions**
+
+`—`
+
+<sub>This year</sub>
+
+</td>
+
+<td width="25%" align="center">
+
+### 📁
+
+**Public Repos**
+
+`—`
+
+<sub>Open source projects</sub>
 
 </td>
 
@@ -585,7 +625,43 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 <br>
 
-<img src="https://ghchart.rshah.org/00C853/Singhdeepak442005" width="90%" alt="GitHub Contribution Graph" />
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00C853&style=flat-square&labelColor=1B1F23">
+&nbsp;
+<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=flat-square&color=00C853&labelColor=1B1F23&logo=github&logoColor=white">
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" width="85%">
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=github_dark" width="90%">
+
+<br><br>
+
+<table width="100%">
+<tr>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=github_dark" width="100%">
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=github_dark" width="100%">
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://ghchart.rshah.org/00C853/Singhdeepak442005" width="95%" alt="GitHub Contribution Graph">
 
 </div>
 
