@@ -1,233 +1,142 @@
-<!-- ======================= MAIN 3D HEADER ======================= -->
-<div align="center" style="
-  background: linear-gradient(135deg, #0a0a0a, #111111);
-  padding: 40px;
-  border-radius: 22px;
-  box-shadow: 0 0 25px rgba(0,255,180,0.35);
-  border: 1px solid rgba(0,255,180,0.25);
-  margin-bottom: 25px;
-">
+<div align="center">
 
-<h1 style="color:#00ffb4;">Hi 👋, I'm Deepak Singh</h1>
-<h3 style="color:#e0e0e0;">Cybersecurity Researcher • Web Security Enthusiast • Bug Hunter</h3>
+┌─────────────────────────────────────────────┐
+│  root@deepak:~$ whoami                       │
+└─────────────────────────────────────────────┘
 
-</div>
+# 🖥️ Deepak Singh
+### `Cybersecurity Researcher | Web Security | Bug Hunter`
 
----
-
-## 🧑‍💻 About Me
-
-<div align="center" style="
-  background: linear-gradient(135deg, #0d0d0d, #131313);
-  padding: 25px;
-  border-radius: 16px;
-  border: 1px solid rgba(0,255,180,0.2);
-">
-
-I am a **Cybersecurity Researcher** with a strong focus on **Web Application Security, Vulnerability Assessment, and Ethical Hacking**. My work centers on identifying real-world security flaws, responsibly disclosing vulnerabilities through bug bounty programs, and engineering resilient, secure systems.
-
-I combine hands-on offensive security testing with a disciplined, methodical approach to reconnaissance, exploitation, and reporting — with the long-term goal of becoming a certified professional security researcher (**OSCP**) and contributing meaningfully to the global security community.
+![Terminal](https://img.shields.io/badge/status-online-00e676?style=flat-square&logo=terminal&logoColor=white)
+![Location](https://img.shields.io/badge/based_in-India-00e676?style=flat-square)
 
 </div>
 
----
+<br>
 
-## 🎯 Interests & Focus
+`$ cat about.md`
+
+> I am a **Cybersecurity Researcher** focused on **Web Application Security, Vulnerability Assessment, and Ethical Hacking**. I identify real-world security flaws, responsibly disclose vulnerabilities through bug bounty programs, and build resilient systems.
+>
+> Working toward **OSCP certification** and a long-term career in professional security research.
+
+<br>
+
+`$ ls -la ./interests/`
+
+| # | Directory | Description |
+|---|-----------|--------------|
+| 01 | `research/` | Web vulnerabilities & exploitation techniques |
+| 02 | `bounty/` | Bug bounty programs & responsible disclosure |
+| 03 | `learning/` | Malware analysis, automation, advanced exploitation |
+| 04 | `ctf/` | TryHackMe, HackTheBox challenges |
+| 05 | `tools/` | Building custom security automation scripts |
+
+<br>
+
+`$ cat skills.json`
 
 <div align="center">
 
-| Area | Focus |
-|------|-------|
-| 🔍 **Researching** | Web vulnerabilities & real-world exploitation techniques |
-| 🤝 **Collaborating** | Security research, bug bounty programs, secure development |
-| 🧠 **Learning** | Advanced exploitation, malware analysis, automation & tooling |
-| 🛡️ **Focus Area** | Web app security, API security, network security |
-| 🧩 **CTF / Practice** | TryHackMe, HackTheBox, Capture The Flag challenges |
-| 📖 **Reading** | Security research papers, CVE write-ups, exploit breakdowns |
-| 🛠️ **Building** | Automation scripts, custom security tools |
+![HTML](https://img.shields.io/badge/-HTML5-00e676?style=flat-square&logo=html5&logoColor=black)
+![CSS](https://img.shields.io/badge/-CSS3-00e676?style=flat-square&logo=css3&logoColor=black)
+![Linux](https://img.shields.io/badge/-Linux-00e676?style=flat-square&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/-Bash-00e676?style=flat-square&logo=gnubash&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-00e676?style=flat-square&logo=python&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-00e676?style=flat-square&logo=git&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GitHub-00e676?style=flat-square&logo=github&logoColor=black)
 
 </div>
 
----
+<br>
 
-## 💡 Expertise
-
-- 🔐 Web Security & Vulnerability Assessment
-- 🎯 Penetration Testing & Reconnaissance
-- 🛡️ Secure Development Practices
-- 🐛 Bug Hunting & Exploit Research
-- 🐧 Linux • Bash • Python • GitHub Actions
-
----
-
-## 💻 Tech Stack
+`$ ./run_toolkit.sh --list`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,linux,bash,python,github,git,vscode" />
+`NMAP` `BURP SUITE` `WIRESHARK` `METASPLOIT` `KALI LINUX` `POSTMAN`
 
 </div>
 
----
+<br>
 
-## 🛠️ Security Tools
+`$ ping deepak --connect`
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Nmap-002B5B?style=for-the-badge&logo=nmap&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Burp%20Suite-FF5F00?style=for-the-badge&logo=burpsuite&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Wireshark-005F99?style=for-the-badge&logo=wireshark&logoColor=00E5FF"/>
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF88"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-00e676?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/ddeepak-singh)
+[![Gmail](https://img.shields.io/badge/-Gmail-00e676?style=flat-square&logo=gmail&logoColor=black)](mailto:ddeepakkumar847105@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-00e676?style=flat-square&logo=whatsapp&logoColor=black)](https://wa.me/918928311874)
 
 </div>
 
----
+<br>
 
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://wa.me/918928311874"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" /></a>
-
-</div>
-
----
-
-## 📌 Profile Stats
+`$ github-stats --fetch`
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile+Views&color=00e676&style=for-the-badge&labelColor=0d0d0d" />
-<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=for-the-badge&color=00e676&labelColor=0d0d0d&logo=github&logoColor=white" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/00e676/Singhdeepak442005" width="95%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 📊 Insights
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=tokyonight" width="95%"/>
+<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=views&color=00e676&style=flat-square&labelColor=0d0d0d" />
+<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=followers&style=flat-square&color=00e676&labelColor=0d0d0d" />
 
 <br><br>
 
-<table width="95%">
-<tr>
-<td width="50%" align="center">
+<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=tokyonight" width="100%"/>
+<br><br>
 
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=tokyonight" width="100%"/>
-
-</td>
-</tr>
-</table>
+<img src="https://ghchart.rshah.org/00e676/Singhdeepak442005" width="90%" alt="contribution graph"/>
 
 </div>
 
----
+<br>
 
-## 🏆 Achievements & Goals
+`$ cat achievements.log`
 
 <table align="center">
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
-<div style="
-  background: linear-gradient(135deg, #0d0d0d, #131313);
-  padding: 22px;
-  border-radius: 14px;
-  border: 1px solid rgba(0,255,180,0.25);
-">
-
-### 🏆 Achievements
-
-✅ Reported vulnerabilities in real-world applications  
-✅ Contributed to open-source security projects  
-✅ Active participant in bug bounty programs  
-✅ Building a strong cybersecurity portfolio
-
-</div>
+**`[COMPLETED]`**
+- Reported real-world vulnerabilities
+- Contributed to open-source security projects
+- Active in bug bounty programs
+- Built strong security portfolio
 
 </td>
-<td valign="top" width="50%">
+<td width="50%">
 
-<div style="
-  background: linear-gradient(135deg, #0d0d0d, #131313);
-  padding: 22px;
-  border-radius: 14px;
-  border: 1px solid rgba(0,255,180,0.25);
-">
-
-### 🎯 Goals
-
-🚀 Achieve **OSCP** certification  
-🚀 Advance into professional-grade security research  
-🚀 Expand contributions to open-source security tooling  
-🚀 Build a recognized presence in the bug bounty community
-
-</div>
+**`[IN_PROGRESS]`**
+- Achieve OSCP certification
+- Advance into professional security research
+- Contribute to open-source tooling
+- Grow presence in bug bounty community
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-## 📜 Certifications
+`$ cat certifications.txt`
 
-- Cisco Certified Network Professional (CCNP) — Ethical Hacker
-- Spoken Tutorial (IIT Bombay) — Java
-- Hack and Fix — Security Operations (SOC Basics)
-- TryHackMe — Advent of Cyber 2025
-- Cyber Security — Nmap, Ethical Hacking
-- AI Cybersecurity for Beginners — Free Academy.ai
+- `[✓]` Cisco Certified Network Professional (CCNP) — Ethical Hacker
+- `[✓]` Spoken Tutorial (IIT Bombay) — Java
+- `[✓]` Hack and Fix — Security Operations (SOC Basics)
+- `[✓]` TryHackMe — Advent of Cyber 2025
+- `[✓]` Cyber Security — Nmap, Ethical Hacking
+- `[✓]` AI Cybersecurity for Beginners — Free Academy.ai
 
-[View All Certificates →](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
+[`→ view_all_certificates`](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
 
-<div align="center">
+<br>
 
-<img src="https://img.shields.io/badge/Cisco-CCNP%20Security-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img src="https://img.shields.io/badge/IIT%20Bombay-Java%20Certification-007396?style=for-the-badge&logo=coursera&logoColor=white"/>
-<img src="https://img.shields.io/badge/SOC%20Basics-Hack%20%26%20Fix-6A5ACD?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/TryHackMe-Advent%20of%20Cyber%202025-CC0000?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cyber%20Security-Nmap%20%7C%20Ethical%20Hacking-00A86B?style=for-the-badge&logo=hackaday&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Cybersecurity-Free%20Academy.ai-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
----
-
-<h3 align="center">⚡ Security is not a product, but a process.</h3>
+┌─────────────────────────────────────────────┐
+│  $ echo "Security is not a product,          │
+│         but a process."                      │
+│  root@deepak:~$ _                            │
+└─────────────────────────────────────────────┘
 
 <div align="center">
-<i>Thanks for visiting — feel free to connect or drop a message!</i>
+<sub>Thanks for visiting — feel free to connect!</sub>
 </div>
