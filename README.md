@@ -101,8 +101,8 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile+Views&color=00ffb4&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=for-the-badge&color=00ffb4&logo=github&logoColor=white" />
+<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile+Views&color=00e676&style=for-the-badge&labelColor=0d0d0d" />
+<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=for-the-badge&color=00e676&labelColor=0d0d0d&logo=github&logoColor=white" />
 
 </div>
 
