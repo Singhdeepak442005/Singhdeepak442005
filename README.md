@@ -30,7 +30,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 </div>
 
----
+--- 
 
 ## 🎯 Interests & Focus
 
