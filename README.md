@@ -112,47 +112,47 @@ My goal is to understand how modern web applications and systems operate, identi
 <table width="100%">
 <tr>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://cdn.simpleicons.org/kalilinux/557C94" width="45"><br>
 <sub>Kali Linux</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://img.shields.io/badge/Nmap-004065?style=flat-square&logo=nmap&logoColor=white" height="28"><br>
 <sub>Nmap</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="45"><br>
 <sub>Burp Suite</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://img.shields.io/badge/FFUF-111111?style=flat-square&logoColor=white" height="28"><br>
 <sub>FFUF</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://img.shields.io/badge/Gobuster-222222?style=flat-square&logoColor=white" height="28"><br>
 <sub>Gobuster</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://img.shields.io/badge/Subfinder-1E88E5?style=flat-square&logoColor=white" height="28"><br>
 <sub>Subfinder</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://cdn.simpleicons.org/wireshark/1679A7" width="45"><br>
 <sub>Wireshark</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://cdn.simpleicons.org/metasploit/2596CD" width="45"><br>
 <sub>Metasploit</sub>
 </td>
 
-<td align="center">
+<td width="11.11%" align="center">
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="45"><br>
 <sub>Postman</sub>
 </td>
