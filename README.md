@@ -30,7 +30,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 </div>
 
---- 
+---
 
 ## 🎯 Interests & Focus
 
@@ -123,16 +123,6 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 <div align="center">
 
 <img src="https://ghchart.rshah.org/00e676/Singhdeepak442005" width="95%" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Singhdeepak442005/Singhdeepak442005/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Snake animation eating contribution graph" />
 
 </div>
 
