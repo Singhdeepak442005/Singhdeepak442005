@@ -31,10 +31,10 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 ## 🧭 What I Do
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🔍 Web Security
 
@@ -47,7 +47,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🎯 Security Research
 
@@ -60,7 +60,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🛠️ Security Development
 
@@ -80,10 +80,10 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 ## 📚 Currently Learning
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🔐 Advanced Web Security
 
@@ -95,7 +95,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🧪 Security Research
 
@@ -107,7 +107,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### ⚙️ Advanced Tooling
 
@@ -187,10 +187,10 @@ My approach is based on **continuous learning, practical experimentation, respon
 
 # 🚀 Featured Projects
 
-<table>
+<table width="100%">
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🖥️ Cybersecurity Portfolio
 
@@ -199,13 +199,11 @@ Kali Linux-inspired interactive cybersecurity portfolio with a terminal and desk
 **Tech:**  
 `HTML` `CSS` `JavaScript` `PHP`
 
-<br>
-
 [View Repository →](https://github.com/Singhdeepak442005/Portfolio_v1.2.0)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🛒 Tribal Marketplace
 
@@ -216,7 +214,7 @@ E-commerce platform designed for tribal artisans and their products.
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🛡️ Vulnerability Scanner
 
@@ -224,8 +222,6 @@ Python-based security tool for identifying and analyzing web security weaknesses
 
 **Tech:**  
 `Python` `Security`
-
-<br>
 
 [View Repository →](https://github.com/Singhdeepak442005/Vulnerability-Scanner)
 
@@ -235,7 +231,7 @@ Python-based security tool for identifying and analyzing web security weaknesses
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🔎 ReconToolkit
 
@@ -244,13 +240,11 @@ Web-based reconnaissance toolkit for security research, enumeration, and target 
 **Tech:**  
 `Python` `Flask`
 
-<br>
-
 [View Repository →](https://github.com/Singhdeepak442005/ReconToolkit)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### ⛓️ ChainTrace
 
@@ -259,13 +253,11 @@ Tamper-evident blockchain-style ledger created for a cybersecurity hackathon pro
 **Tech:**  
 `Python` `FastAPI`
 
-<br>
-
 [View Repository →](https://github.com/Singhdeepak442005/ChainTrace)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 📊 Real-Time Vulnerability Correlation Engine
 
@@ -273,8 +265,6 @@ Security-focused project for correlating and analyzing vulnerability information
 
 **Tech:**  
 `Python` `Security`
-
-<br>
 
 [View Repository →](https://github.com/Singhdeepak442005/Real-Time-Vulnerability-Correlation-Engine)
 
@@ -284,7 +274,7 @@ Security-focused project for correlating and analyzing vulnerability information
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🌐 Web Application Security Assessment
 
@@ -295,7 +285,7 @@ Practical security testing based on OWASP methodology using industry-standard se
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🌐 Hotel Booking Website
 
@@ -306,7 +296,7 @@ Responsive web-based hotel booking application developed using frontend technolo
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🔐 SYNTEXHUB Port Scanner
 
@@ -314,8 +304,6 @@ Network port scanning and enumeration utility developed for cybersecurity learni
 
 **Tech:**  
 `Python` `Networking`
-
-<br>
 
 [View Repository →](https://github.com/Singhdeepak442005/SYNTEXHUB-port-scanner)
 
@@ -325,7 +313,7 @@ Network port scanning and enumeration utility developed for cybersecurity learni
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🔑 Secure-Pass-Analyzer
 
@@ -334,13 +322,11 @@ Security-focused password analysis tool for evaluating password strength and ide
 **Tech:**  
 `Python` `Security`
 
-<br>
-
 [View Repository →](https://github.com/Singhdeepak442005/Secure-Pass-Analyzer)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🔐 Secure-Login-System
 
@@ -349,13 +335,11 @@ Security-focused authentication project demonstrating secure login and access-co
 **Tech:**  
 `Python` `Security`
 
-<br>
-
 [View Repository →](https://github.com/Singhdeepak442005/Secure-Login-System)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🎣 Phishing Email Detector
 
@@ -363,8 +347,6 @@ Security project focused on detecting suspicious and potentially malicious email
 
 **Tech:**  
 `Python` `Security`
-
-<br>
 
 [View Repository →](https://github.com/Singhdeepak442005/Phishing-Email-Detector)
 
@@ -374,7 +356,7 @@ Security project focused on detecting suspicious and potentially malicious email
 
 <tr>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🗂️ Digital Evidence Management System
 
@@ -383,15 +365,13 @@ System designed to organize and manage digital evidence for security and investi
 **Tech:**  
 `Python` `Security`
 
-<br>
-
 [View Repository →](https://github.com/Singhdeepak442005/Digital-Evidence-Management-System)
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
-### 🔍 Bug Bounty Research
+### 🐛 Bug Bounty Research
 
 Practical security research focused on vulnerability discovery, analysis, validation, and responsible disclosure.
 
@@ -400,7 +380,7 @@ Practical security research focused on vulnerability discovery, analysis, valida
 
 </td>
 
-<td width="33%" valign="top">
+<td width="33.33%" valign="top">
 
 ### 🧪 TryHackMe Learning Journey
 
@@ -409,9 +389,9 @@ Hands-on cybersecurity learning through rooms, labs, CTF challenges, reconnaissa
 **Focus:**  
 `CTF` `Web Security` `Networking`
 
-<br>
-
 🏆 **Top 6% Global**
+
+[View Profile →](https://tryhackme.com/p/kingdomindian67)
 
 </td>
 
@@ -422,20 +402,49 @@ Hands-on cybersecurity learning through rooms, labs, CTF challenges, reconnaissa
 
 # 🧪 Security Projects & Practical Work
 
-- 🔐 **File Integrity Monitor** — SHA-256 based file integrity monitoring
-- 🕵️ **Fake Social Media Profile Detector** — Flask-based detection project
-- 🌐 **Web Vulnerability Scanner** — HTML form and HTTP security-header analysis
-- 🔒 **AES-256 File Encryptor** — File encryption utility
-- 🔎 **Reconnaissance Toolkit** — Automated reconnaissance and enumeration
-- 📊 **Vulnerability Correlation Engine** — Vulnerability analysis and correlation
-- ⛓️ **ChainTrace** — Tamper-evident security ledger
-- 🐛 **Bug Bounty Research** — Security research and vulnerability discovery
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+- 🔐 **File Integrity Monitor**  
+  SHA-256 based file integrity monitoring
+
+- 🕵️ **Fake Social Media Profile Detector**  
+  Flask-based detection project
+
+- 🌐 **Web Vulnerability Scanner**  
+  HTML form and HTTP security-header analysis
+
+- 🔒 **AES-256 File Encryptor**  
+  File encryption utility
+
+</td>
+
+<td width="50%" valign="top">
+
+- 🔎 **Reconnaissance Toolkit**  
+  Automated reconnaissance and enumeration
+
+- 📊 **Vulnerability Correlation Engine**  
+  Vulnerability analysis and correlation
+
+- ⛓️ **ChainTrace**  
+  Tamper-evident security ledger
+
+- 🐛 **Bug Bounty Research**  
+  Security research and vulnerability discovery
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 # 🏆 Achievements & Goals
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" valign="top">
@@ -490,10 +499,10 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 # 📜 Certifications & Training
 
-<table>
+<table width="100%">
 <tr>
-<th>Certification / Training</th>
-<th>Area</th>
+<th width="70%">Certification / Training</th>
+<th width="30%">Area</th>
 </tr>
 
 <tr>
@@ -556,7 +565,7 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 <br><br>
 
-<table>
+<table width="100%">
 <tr>
 
 <td width="50%" align="center">
