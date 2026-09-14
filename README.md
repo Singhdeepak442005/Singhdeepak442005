@@ -12,11 +12,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFB4&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Web+Security+Enthusiast;Bug+Hunter+%26+CTF+Player;Aspiring+OSCP" alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00ffb4&style=flat" />
-<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=flat&color=00ffb4" />
-
 </div>
 
 ---
@@ -93,13 +88,23 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<table align="center">
+<tr>
+<td align="center">
 
 <a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://wa.me/918928311874"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" /></a>
 
-</div>
+</td>
+<td align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00ffb4&style=flat" /><br>
+<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=flat&color=00ffb4" />
+
+</td>
+</tr>
+</table>
 
 ---
 
