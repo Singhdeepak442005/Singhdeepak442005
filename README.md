@@ -177,10 +177,6 @@ Interactive cybersecurity portfolio with terminal and desktop interface.
 
 `HTML` `CSS` `JavaScript` `PHP`
 
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/Portfolio_v1.2.0)
-
 </td>
 
 <td width="33.33%" valign="top">
@@ -201,10 +197,6 @@ Python-based vulnerability scanning tool.
 
 `Python` `Security`
 
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/Vulnerability-Scanner)
-
 </td>
 
 </tr>
@@ -219,10 +211,6 @@ Web-based reconnaissance toolkit for security research.
 
 `Flask` `Python`
 
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/ReconToolkit)
-
 </td>
 
 <td width="33.33%" valign="top">
@@ -232,10 +220,6 @@ Web-based reconnaissance toolkit for security research.
 Tamper-evident blockchain-style ledger (hackathon project).
 
 `FastAPI` `Python`
-
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/ChainTrace)
 
 </td>
 
@@ -247,20 +231,10 @@ Vulnerability correlation and analysis engine.
 
 `Python` `Security`
 
-<br>
-
-[Repository →](https://github.com/Singhdeepak442005/Real-Time-Vulnerability-Correlation-Engine)
-
 </td>
 
 </tr>
 </table>
-
-<div align="right">
-
-[View all repositories →](https://github.com/Singhdeepak442005?tab=repositories)
-
-</div>
 
 ---
 
