@@ -240,62 +240,6 @@ Vulnerability correlation and analysis engine.
 
 # 📊 GitHub Statistics
 
-<table width="100%">
-<tr>
-
-<td width="25%" align="center">
-
-### ⭐
-
-**Total Stars**
-
-`—`
-
-<sub>Across repositories</sub>
-
-</td>
-
-<td width="25%" align="center">
-
-### 🍴
-
-**Total Forks**
-
-`—`
-
-<sub>Across repositories</sub>
-
-</td>
-
-<td width="25%" align="center">
-
-### 📈
-
-**Contributions**
-
-`—`
-
-<sub>This year</sub>
-
-</td>
-
-<td width="25%" align="center">
-
-### 📁
-
-**Public Repos**
-
-`—`
-
-<sub>Open source projects</sub>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00C853&style=flat-square&labelColor=1B1F23">
