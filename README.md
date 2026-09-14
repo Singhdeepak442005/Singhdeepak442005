@@ -109,7 +109,7 @@ My goal is to understand how modern web applications and systems operate, identi
 
 <div align="center">
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<table width="100%" cellpadding="8" cellspacing="0">
 <tr>
 
 <td width="11.11%" align="center">
