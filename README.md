@@ -9,8 +9,7 @@
 ">
 
 <h1 style="color:#00ffb4;">Hi 👋, I'm Deepak Singh</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FFB4&center=true&vCenter=true&width=600&lines=Cybersecurity+Researcher;Web+Security+Enthusiast;Bug+Hunter+%26+CTF+Player;Aspiring+OSCP" alt="Typing SVG" />
+<h3 style="color:#e0e0e0;">Cybersecurity Researcher • Web Security Enthusiast • Bug Hunter</h3>
 
 </div>
 
