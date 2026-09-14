@@ -122,7 +122,7 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img src="https://ghchart.rshah.org/00ffb4/Singhdeepak442005" width="95%" alt="GitHub Contribution Graph"/>
 
 </div>
 
