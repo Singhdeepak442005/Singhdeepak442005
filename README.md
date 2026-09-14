@@ -4,10 +4,10 @@
 
 ### `Cybersecurity Researcher | Web Security Enthusiast | Bug Hunter`
 
-![Status](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-00C853?style=for-the-badge)
-![Location](https://img.shields.io/badge/📍%20India-1E88E5?style=for-the-badge)
+![Open to Opportunities](https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-00C853?style=for-the-badge)
+![India](https://img.shields.io/badge/📍%20India-1E88E5?style=for-the-badge)
 ![TryHackMe](https://img.shields.io/badge/🏆%20TryHackMe-Top%206%25%20Global-8E44AD?style=for-the-badge)
-![Education](https://img.shields.io/badge/🎓%20MCA%20Student-37474F?style=for-the-badge)
+![MCA Student](https://img.shields.io/badge/🎓%20MCA%20Student-37474F?style=for-the-badge)
 
 </div>
 
@@ -19,9 +19,9 @@ I am a **Cybersecurity Researcher and MCA student** with a strong focus on **Cyb
 
 My work revolves around understanding how modern web applications and systems operate, identifying security weaknesses, and learning how those weaknesses can be properly secured.
 
-I enjoy working on practical cybersecurity projects, conducting security testing, analyzing vulnerabilities, researching real-world attack surfaces, building security tools, and solving cybersecurity challenges.
+I enjoy working on practical cybersecurity projects, conducting security testing, analyzing vulnerabilities, researching real-world attack surfaces, building security tools, and exploring cybersecurity challenges.
 
-I have hands-on experience with security tools such as **Kali Linux, Burp Suite, Nmap, FFUF, Gobuster, Subfinder, Wireshark, Metasploit, and Postman**, along with technologies including **Python, Flask, FastAPI, React, Next.js, JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Redis, Docker, Git, and Linux**.
+I have hands-on experience with tools such as **Kali Linux, Burp Suite, Nmap, FFUF, Gobuster, Subfinder, Wireshark, Metasploit, and Postman**, along with technologies including **Python, Flask, FastAPI, React, Next.js, JavaScript, TypeScript, PHP, MySQL, PostgreSQL, Redis, Docker, Git, and Linux**.
 
 My approach is based on **continuous learning, practical experimentation, responsible security research, ethical testing, and developing a strong understanding of both offensive and defensive cybersecurity**.
 
@@ -69,7 +69,7 @@ My approach is based on **continuous learning, practical experimentation, respon
 - Custom Security Scripts
 - Vulnerability Scanners
 - Reconnaissance Tools
-- Security-focused Applications
+- Security Applications
 
 </td>
 
@@ -83,39 +83,39 @@ My approach is based on **continuous learning, practical experimentation, respon
 <table>
 <tr>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-🔐 **Advanced Web Exploitation**
+### 🔐 Advanced Web Security
 
-- Web vulnerabilities
-- API security
+- Web Vulnerabilities
+- API Security
 - Authentication
 - Authorization
-- Exploitation techniques
+- Exploitation Techniques
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-🧪 **Security Research**
+### 🧪 Security Research
 
-- Bug bounty methodology
-- CVE research
-- Exploit analysis
-- Malware analysis
-- Security write-ups
+- Bug Bounty Methodology
+- CVE Research
+- Exploit Analysis
+- Malware Analysis
+- Security Write-ups
 
 </td>
 
-<td width="33%">
+<td width="33%" valign="top">
 
-⚙️ **Advanced Tooling**
+### ⚙️ Advanced Tooling
 
-- Security automation
+- Security Automation
 - Python
-- Recon frameworks
-- Vulnerability correlation
-- OSCP preparation
+- Recon Frameworks
+- Vulnerability Correlation
+- OSCP Preparation
 
 </td>
 
@@ -199,6 +199,10 @@ Kali Linux-inspired interactive cybersecurity portfolio with a terminal and desk
 **Tech:**  
 `HTML` `CSS` `JavaScript` `PHP`
 
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/Portfolio_v1.2.0)
+
 </td>
 
 <td width="33%" valign="top">
@@ -216,10 +220,14 @@ E-commerce platform designed for tribal artisans and their products.
 
 ### 🛡️ Vulnerability Scanner
 
-Python-based project for identifying and analyzing web security weaknesses.
+Python-based security tool for identifying and analyzing web security weaknesses.
 
 **Tech:**  
 `Python` `Security`
+
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/Vulnerability-Scanner)
 
 </td>
 
@@ -231,10 +239,14 @@ Python-based project for identifying and analyzing web security weaknesses.
 
 ### 🔎 ReconToolkit
 
-Web-based reconnaissance toolkit for security research, enumeration and target management.
+Web-based reconnaissance toolkit for security research, enumeration, and target management.
 
 **Tech:**  
 `Python` `Flask`
+
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/ReconToolkit)
 
 </td>
 
@@ -247,6 +259,10 @@ Tamper-evident blockchain-style ledger created for a cybersecurity hackathon pro
 **Tech:**  
 `Python` `FastAPI`
 
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/ChainTrace)
+
 </td>
 
 <td width="33%" valign="top">
@@ -257,6 +273,10 @@ Security-focused project for correlating and analyzing vulnerability information
 
 **Tech:**  
 `Python` `Security`
+
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/Real-Time-Vulnerability-Correlation-Engine)
 
 </td>
 
@@ -295,6 +315,104 @@ Network port scanning and enumeration utility developed for cybersecurity learni
 **Tech:**  
 `Python` `Networking`
 
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/SYNTEXHUB-port-scanner)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🔑 Secure-Pass-Analyzer
+
+Security-focused password analysis tool for evaluating password strength and identifying weak patterns.
+
+**Tech:**  
+`Python` `Security`
+
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/Secure-Pass-Analyzer)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔐 Secure-Login-System
+
+Security-focused authentication project demonstrating secure login and access-control concepts.
+
+**Tech:**  
+`Python` `Security`
+
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/Secure-Login-System)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎣 Phishing Email Detector
+
+Security project focused on detecting suspicious and potentially malicious email characteristics.
+
+**Tech:**  
+`Python` `Security`
+
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/Phishing-Email-Detector)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🗂️ Digital Evidence Management System
+
+System designed to organize and manage digital evidence for security and investigation workflows.
+
+**Tech:**  
+`Python` `Security`
+
+<br>
+
+[View Repository →](https://github.com/Singhdeepak442005/Digital-Evidence-Management-System)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🔍 Bug Bounty Research
+
+Practical security research focused on vulnerability discovery, analysis, validation, and responsible disclosure.
+
+**Focus:**  
+`Web Security` `Recon` `Vulnerability Research`
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧪 TryHackMe Learning Journey
+
+Hands-on cybersecurity learning through rooms, labs, CTF challenges, reconnaissance, and exploitation practice.
+
+**Focus:**  
+`CTF` `Web Security` `Networking`
+
+<br>
+
+🏆 **Top 6% Global**
+
 </td>
 
 </tr>
@@ -315,37 +433,37 @@ Network port scanning and enumeration utility developed for cybersecurity learni
 
 ---
 
-# 🏆 Achievements
+# 🏆 Achievements & Goals
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Completed
+### ✅ Achievements
 
-- ✅ Practical web security testing
-- ✅ Real-world vulnerability research
-- ✅ Bug bounty research
-- ✅ Cybersecurity project development
-- ✅ Custom security tooling
-- ✅ Security-focused hackathon participation
-- ✅ Open-source security projects
-- ✅ **TryHackMe Top 6% Global**
+- Practical web security testing
+- Real-world vulnerability research
+- Bug bounty research
+- Cybersecurity project development
+- Custom security tooling
+- Security-focused hackathon participation
+- Open-source security projects
+- **TryHackMe Top 6% Global**
 
 </td>
 
 <td width="50%" valign="top">
 
-### Current Goals
+### 🎯 Current Goals
 
-- 🎯 **OSCP Certification**
-- 🎯 Advanced Web Exploitation
-- 🎯 Professional Security Research
-- 🎯 Advanced Security Automation
-- 🎯 Open-source Security Contributions
-- 🎯 Bug Bounty Community Growth
-- 🎯 Offensive & Defensive Security Expertise
+- OSCP Certification
+- Advanced Web Exploitation
+- Professional Security Research
+- Advanced Security Automation
+- Open-source Security Contributions
+- Bug Bounty Community Growth
+- Offensive & Defensive Security Expertise
 
 </td>
 
@@ -360,7 +478,11 @@ Network port scanning and enumeration utility developed for cybersecurity learni
 
 ### 🏆 **Top 6% Global**
 
-Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enumeration, web security and exploitation fundamentals.
+Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enumeration, web security, networking, and exploitation fundamentals.
+
+<br>
+
+[![TryHackMe](https://img.shields.io/badge/View%20TryHackMe%20Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kingdomindian67)
 
 </div>
 
@@ -368,16 +490,51 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 # 📜 Certifications & Training
 
-| Certification / Training | Area |
-|---|---|
-| 🎓 Cisco — CCNP Security / Ethical Hacker | Cybersecurity |
-| ☕ Spoken Tutorial (IIT Bombay) — Java | Programming |
-| 🛡️ Hack and Fix — SOC Basics | Security Operations |
-| 🏆 TryHackMe — Advent of Cyber 2025 | Cybersecurity |
-| 🔎 Nmap & Ethical Hacking | Network Security |
-| 🤖 AI Cybersecurity for Beginners — Free Academy.ai | AI & Cybersecurity |
+<table>
+<tr>
+<th>Certification / Training</th>
+<th>Area</th>
+</tr>
 
-### [→ View All Certificates](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
+<tr>
+<td>🎓 Cisco — CCNP Security / Ethical Hacker</td>
+<td>Cybersecurity</td>
+</tr>
+
+<tr>
+<td>☕ Spoken Tutorial (IIT Bombay) — Java Training</td>
+<td>Programming</td>
+</tr>
+
+<tr>
+<td>🛡️ Hack and Fix — SOC Basics</td>
+<td>Security Operations</td>
+</tr>
+
+<tr>
+<td>🏆 TryHackMe — Advent of Cyber 2025</td>
+<td>Cybersecurity</td>
+</tr>
+
+<tr>
+<td>🔎 Nmap & Ethical Hacking</td>
+<td>Network Security</td>
+</tr>
+
+<tr>
+<td>🤖 AI Cybersecurity for Beginners — Free Academy.ai</td>
+<td>AI & Cybersecurity</td>
+</tr>
+
+</table>
+
+<br>
+
+<div align="center">
+
+[![View Certificates](https://img.shields.io/badge/📜%20View%20All%20Certificates-2962FF?style=for-the-badge)](https://www.linkedin.com/in/ddeepak-singh/details/certifications/)
+
+</div>
 
 ---
 
@@ -391,21 +548,35 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" width="90%"/>
+<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=github-dark-blue&hide_border=true&timezone=Asia/Kolkata" width="90%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=github_dark" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Singhdeepak442005&theme=github_dark" width="90%" />
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=github_dark" width="45%"/>
+<table>
+<tr>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=github_dark" width="45%"/>
+<td width="50%" align="center">
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Singhdeepak442005&theme=github_dark" width="100%" />
 
-<img src="https://ghchart.rshah.org/00C853/Singhdeepak442005" width="90%" alt="GitHub Contribution Graph"/>
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Singhdeepak442005&theme=github_dark" width="100%" />
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://ghchart.rshah.org/00C853/Singhdeepak442005" width="90%" alt="GitHub Contribution Graph" />
 
 </div>
 
@@ -416,15 +587,10 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ddeepak-singh)
-
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Singhdeepak442005)
-
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/kingdomindian67)
-
 [![Portfolio](https://img.shields.io/badge/Portfolio-2962FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deepak-cybersecurity-portfolio.netlify.app/)
-
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ddeepakkumar847105@gmail.com)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918928311874)
 
 </div>
@@ -432,6 +598,8 @@ Focused on practical cybersecurity learning, CTF challenges, reconnaissance, enu
 ---
 
 # ⚔️ Security Research Methodology
+
+<div align="center">
 
 ```text
 Reconnaissance
