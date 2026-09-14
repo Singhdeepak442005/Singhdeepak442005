@@ -87,33 +87,40 @@ I combine hands-on offensive security testing with a disciplined, methodical app
 
 ## 🌐 Connect With Me
 
-<table align="center">
-<tr>
-<td align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/ddeepak-singh"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:ddeepakkumar847105@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://wa.me/918928311874"><img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" width="48" height="48" /></a>
 
-</td>
-<td align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile%20Views&color=00ffb4&style=flat" /><br>
-<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=flat&color=00ffb4" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🔥 GitHub Streak & Activity
+## 📌 Profile Stats
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true"/>
+<img src="https://komarev.com/ghpvc/?username=Singhdeepak442005&label=Profile+Views&color=00ffb4&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/Singhdeepak442005?label=Followers&style=for-the-badge&color=00ffb4&logo=github&logoColor=white" />
 
-<br><br>
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Singhdeepak442005&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata" />
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Singhdeepak442005&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
